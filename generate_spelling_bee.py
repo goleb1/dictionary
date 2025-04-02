@@ -23,11 +23,11 @@ from typing import Dict, List, Set, Tuple, Any
 PANGRAM_BONUS = 10
 BINGO_BONUS = 10
 MIN_WORD_LENGTH = 4
-MIN_WORDS_PER_PUZZLE = 25
-MAX_WORDS_PER_PUZZLE = 200
+MIN_WORDS_PER_PUZZLE = 30
+MAX_WORDS_PER_PUZZLE = 100
 MIN_PANGRAMS = 1
-MAX_PANGRAMS = 6
-DAYS_WITHOUT_REPETITION = 60
+MAX_PANGRAMS = 4
+DAYS_WITHOUT_REPETITION = 30
 NUM_PUZZLES = 180
 
 
@@ -104,10 +104,6 @@ def get_pangrams(valid_words: List[str], letters: Set[str]) -> List[str]:
 
 
 def generate_letter_sets(dictionary: Dict[str, int]) -> List[Tuple[str, Set[str]]]:
-    """
-    Generate potential letter sets by analyzing the dictionary.
-    Focus on letter combinations that appear in pangrams.
-    """
     # Count letter frequencies in the dictionary
     letter_counts = Counter(''.join(dictionary.keys()))
     
@@ -117,62 +113,50 @@ def generate_letter_sets(dictionary: Dict[str, int]) -> List[Tuple[str, Set[str]
         if len(set(word)) == 7:  # Potential pangram
             pangram_candidates.append(set(word))
     
-    # If we have enough potential pangrams, use them
+    letter_sets = []
+    vowels = ['a', 'e', 'i', 'o', 'u']
+    common_consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'l', 'm', 'p', 'r']
+    
+    # If we have enough pangram candidates
     if len(pangram_candidates) >= NUM_PUZZLES * 2:
         random.shuffle(pangram_candidates)
-        letter_sets = []
-        for letter_set in pangram_candidates[:NUM_PUZZLES * 2]:
-            # Choose center letter - prefer vowels or common letters
+        for i, letter_set in enumerate(pangram_candidates[:NUM_PUZZLES * 2]):
             letters = list(letter_set)
-            vowels = [l for l in letters if l in 'aeiou']
-            if vowels:
-                center = random.choice(vowels)
-            else:
-                # Weight by frequency
-                weights = [letter_counts[l] for l in letters]
-                center = random.choices(letters, weights=weights)[0]
+            # Force a mix: 50% vowels, 50% consonants as center letters
+            if i % 2 == 0:  # Even indices: pick a vowel
+                center = random.choice([l for l in letters if l in vowels])
+            else:  # Odd indices: pick a consonant
+                consonants = [l for l in letters if l not in vowels]
+                if consonants:
+                    center = random.choice(consonants)
+                else:
+                    center = random.choice(letters)  # Fallback if no consonants
             letter_sets.append((center, letter_set))
-        return letter_sets
-    
-    # Fallback: generate letter sets algorithmically
-    letter_sets = []
-    
-    # Common vowels and consonants
-    vowels = ['a', 'e', 'i', 'o', 'u']
-    common_consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'l', 'm', 'n', 'p', 'r', 's', 't']
-    
-    # Generate sets with good mix of vowels and consonants
-    for _ in range(NUM_PUZZLES * 3):  # Generate extra to filter later
-        # 2-3 vowels per set
-        num_vowels = random.randint(2, 3)
-        set_vowels = random.sample(vowels, num_vowels)
-        
-        # 4-5 consonants
-        num_consonants = 7 - num_vowels
-        set_consonants = random.sample(common_consonants, num_consonants)
-        
-        letter_set = set(set_vowels + set_consonants)
-        
-        # Choose center letter (prefer vowels)
-        if random.random() < 0.7 and set_vowels:  # 70% chance to pick vowel as center
-            center = random.choice(set_vowels)
-        else:
-            center = random.choice(list(letter_set))
+    else:
+        # Fallback: generate letter sets algorithmically
+        for i in range(NUM_PUZZLES * 3):
+            num_vowels = random.randint(2, 3)
+            set_vowels = random.sample(vowels, num_vowels)
+            num_consonants = 7 - num_vowels
+            set_consonants = random.sample(common_consonants, num_consonants)
             
-        letter_sets.append((center, letter_set))
+            letter_set = set(set_vowels + set_consonants)
+            # Force a mix: 50% vowels, 50% consonants as center letters
+            if i % 2 == 0:  # Even indices: pick a vowel
+                center = random.choice(set_vowels)
+            else:  # Odd indices: pick a consonant
+                center = random.choice(set_consonants)
+            letter_sets.append((center, letter_set))
     
     return letter_sets
 
 
 def filter_puzzles(candidate_puzzles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """
-    Filter puzzles to ensure diversity and no duplications.
-    Ensure letter sets aren't repeated within DAYS_WITHOUT_REPETITION.
-    """
     filtered_puzzles = []
     used_letter_sets = set()
+    center_letter_counts = Counter()
+    vowels = set('aeiou')
     
-    # Sort by number of pangrams (descending) and then by total words (descending)
     sorted_puzzles = sorted(
         candidate_puzzles, 
         key=lambda p: (len(p['pangrams']), p['total_words']), 
@@ -180,22 +164,38 @@ def filter_puzzles(candidate_puzzles: List[Dict[str, Any]]) -> List[Dict[str, An
     )
     
     for puzzle in sorted_puzzles:
-        # Create a frozen set of letters for comparison
         letter_set = frozenset([puzzle['center_letter']] + puzzle['outside_letters'])
-        
-        # Skip if we've used this letter set recently
         if letter_set in used_letter_sets:
             continue
-            
+        
+        # Check word length distribution
+        long_words = sum(1 for w in puzzle['valid_words'] if len(w) >= 6)
+        if long_words / puzzle['total_words'] < 0.2:
+            continue
+        
+        # Check center letter distribution
+        center = puzzle['center_letter']
+        center_letter_counts[center] += 1
+        is_vowel = center in vowels
+        vowel_ratio = sum(count for letter, count in center_letter_counts.items() if letter in vowels) / (len(filtered_puzzles) + 1)
+        
+        # Aim for 50-60% vowels as center letters
+        if is_vowel and vowel_ratio > 0.6 and len(filtered_puzzles) > 0:
+            continue  # Skip if too many vowels already
+        
         filtered_puzzles.append(puzzle)
         used_letter_sets.add(letter_set)
         
-        # Stop once we have enough puzzles
         if len(filtered_puzzles) >= NUM_PUZZLES:
             break
-            
+    
+    # Log the final center letter distribution
+    print("Center letter distribution:")
+    for letter, count in sorted(center_letter_counts.items(), key=lambda x: x[1], reverse=True):
+        percentage = (count / len(filtered_puzzles)) * 100
+        print(f"  {letter}: {count} puzzles ({percentage:.1f}%)")
+    
     return filtered_puzzles
-
 
 def generate_puzzles(dictionary: Dict[str, int]) -> List[Dict[str, Any]]:
     """Generate puzzle sets."""
@@ -281,7 +281,7 @@ def main():
     print(f"Generated {len(puzzle_sets)} puzzle sets")
     print(f"Average words per puzzle: {sum(p['total_words'] for p in puzzle_sets) / len(puzzle_sets):.2f}")
     print(f"Average pangrams per puzzle: {sum(len(p['pangrams']) for p in puzzle_sets) / len(puzzle_sets):.2f}")
-    print(f"Average score per puzzle: {sum(p['total_score'] for p in puzzle_sets) / len(puzzle_sets):.2f}")
+    print(f"Average long words (6+): {sum(sum(1 for w in p['valid_words'] if len(w) >= 6) for p in puzzle_sets) / len(puzzle_sets):.2f}")
 
 
 if __name__ == "__main__":

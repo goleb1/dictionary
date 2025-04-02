@@ -144,8 +144,8 @@ class PuzzleReviewer:
                 word for word in puzzle['valid_words']
                 if (word not in self.obscure_words and  # Not marked as obscure
                     (word in self.valid_words or  # Either explicitly marked as valid
-                     (word not in self.valid_words and  # Or not yet reviewed
-                      word not in self.obscure_words)))
+                    (word not in self.valid_words and  # Or not yet reviewed
+                    word not in self.obscure_words)))
             ]
             
             # Update all puzzle stats based on filtered words
