@@ -1,7 +1,7 @@
 [
   {
     "id": "5069f811",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-02",
     "center_letter": "t",
     "outside_letters": [
@@ -85,7 +85,7 @@
   },
   {
     "id": "09d70960",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-03",
     "center_letter": "h",
     "outside_letters": [
@@ -191,7 +191,7 @@
   },
   {
     "id": "3d958946",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-04",
     "center_letter": "i",
     "outside_letters": [
@@ -286,7 +286,7 @@
   },
   {
     "id": "2943d03c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-05",
     "center_letter": "r",
     "outside_letters": [
@@ -382,7 +382,7 @@
   },
   {
     "id": "ffdf8b78",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-06",
     "center_letter": "a",
     "outside_letters": [
@@ -446,7 +446,7 @@
   },
   {
     "id": "28a36734",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-07",
     "center_letter": "s",
     "outside_letters": [
@@ -519,7 +519,7 @@
   },
   {
     "id": "65243b8a",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-08",
     "center_letter": "o",
     "outside_letters": [
@@ -608,7 +608,7 @@
   },
   {
     "id": "ae2bdde0",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-09",
     "center_letter": "i",
     "outside_letters": [
@@ -703,7 +703,7 @@
   },
   {
     "id": "eb0edad7",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-10",
     "center_letter": "d",
     "outside_letters": [
@@ -783,7 +783,7 @@
   },
   {
     "id": "bedf8183",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-11",
     "center_letter": "i",
     "outside_letters": [
@@ -885,7 +885,7 @@
   },
   {
     "id": "f76f7ab6",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-12",
     "center_letter": "e",
     "outside_letters": [
@@ -957,7 +957,7 @@
   },
   {
     "id": "e3f99274",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-13",
     "center_letter": "t",
     "outside_letters": [
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "268fc0af",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-14",
     "center_letter": "u",
     "outside_letters": [
@@ -1114,7 +1114,7 @@
   },
   {
     "id": "2cfd66ad",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-15",
     "center_letter": "c",
     "outside_letters": [
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "a0125508",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-16",
     "center_letter": "u",
     "outside_letters": [
@@ -1250,7 +1250,7 @@
   },
   {
     "id": "51d0d5f6",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-17",
     "center_letter": "n",
     "outside_letters": [
@@ -1263,11 +1263,13 @@
     ],
     "pangrams": [
       "calving",
+      "caviling",
+      "cavilling",
       "galvanic"
     ],
     "bingo_possible": true,
-    "total_score": 383,
-    "total_words": 61,
+    "total_score": 427,
+    "total_words": 64,
     "valid_words": [
       "acing",
       "again",
@@ -1287,6 +1289,8 @@
       "cancan",
       "caning",
       "canning",
+      "caviling",
+      "cavilling",
       "caving",
       "civilian",
       "clan",
@@ -1304,6 +1308,7 @@
       "galvanic",
       "gang",
       "ganging",
+      "ganglia",
       "gangling",
       "giggling",
       "giving",
@@ -1334,7 +1339,7 @@
   },
   {
     "id": "6e700c53",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-18",
     "center_letter": "o",
     "outside_letters": [
@@ -1349,10 +1354,12 @@
       "outfoxes"
     ],
     "bingo_possible": false,
-    "total_score": 139,
-    "total_words": 35,
+    "total_score": 153,
+    "total_words": 37,
     "valid_words": [
       "foes",
+      "foetus",
+      "foetuses",
       "foot",
       "foots",
       "foxes",
@@ -1391,7 +1398,7 @@
   },
   {
     "id": "29aba185",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-19",
     "center_letter": "y",
     "outside_letters": [
@@ -1406,8 +1413,8 @@
       "barbarically"
     ],
     "bingo_possible": false,
-    "total_score": 151,
-    "total_words": 29,
+    "total_score": 161,
+    "total_words": 31,
     "valid_words": [
       "ably",
       "acrylic",
@@ -1416,6 +1423,7 @@
       "ally",
       "array",
       "baby",
+      "baccy",
       "barbarically",
       "billy",
       "bray",
@@ -1429,6 +1437,7 @@
       "cyclical",
       "icily",
       "lacy",
+      "lairy",
       "library",
       "lily",
       "lyric",
@@ -1442,7 +1451,7 @@
   },
   {
     "id": "6841e15d",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-20",
     "center_letter": "m",
     "outside_letters": [
@@ -1457,8 +1466,8 @@
       "requiems"
     ],
     "bingo_possible": false,
-    "total_score": 286,
-    "total_words": 56,
+    "total_score": 293,
+    "total_words": 58,
     "valid_words": [
       "emir",
       "emirs",
@@ -1494,6 +1503,8 @@
       "muses",
       "museum",
       "museums",
+      "muss",
+      "musses",
       "remiss",
       "requiem",
       "requiems",
@@ -1520,7 +1531,7 @@
   },
   {
     "id": "90d5c671",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-21",
     "center_letter": "o",
     "outside_letters": [
@@ -1535,8 +1546,8 @@
       "porosity"
     ],
     "bingo_possible": false,
-    "total_score": 288,
-    "total_words": 77,
+    "total_score": 324,
+    "total_words": 85,
     "valid_words": [
       "oops",
       "opts",
@@ -1572,8 +1583,10 @@
       "roosts",
       "root",
       "roots",
+      "ropy",
       "rosy",
       "roti",
+      "rotis",
       "rotor",
       "rotors",
       "rots",
@@ -1597,9 +1610,15 @@
       "stop",
       "stops",
       "story",
+      "strop",
+      "stroppy",
+      "strops",
       "toot",
       "toots",
+      "topi",
+      "topis",
       "tops",
+      "torpor",
       "torso",
       "torsos",
       "tort",
@@ -1619,7 +1638,7 @@
   },
   {
     "id": "8676648e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-22",
     "center_letter": "e",
     "outside_letters": [
@@ -1634,8 +1653,8 @@
       "waveband"
     ],
     "bingo_possible": true,
-    "total_score": 223,
-    "total_words": 52,
+    "total_score": 230,
+    "total_words": 54,
     "valid_words": [
       "added",
       "anew",
@@ -1688,12 +1707,14 @@
       "webbed",
       "wedded",
       "weed",
-      "weeded"
+      "weeded",
+      "wend",
+      "wended"
     ]
   },
   {
     "id": "903e1d7c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-23",
     "center_letter": "l",
     "outside_letters": [
@@ -1708,8 +1729,8 @@
       "wakeful"
     ],
     "bingo_possible": false,
-    "total_score": 104,
-    "total_words": 34,
+    "total_score": 105,
+    "total_words": 35,
     "valid_words": [
       "alfalfa",
       "awful",
@@ -1744,12 +1765,13 @@
       "wakeful",
       "walk",
       "wall",
+      "weal",
       "well"
     ]
   },
   {
     "id": "7baeb14a",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-24",
     "center_letter": "l",
     "outside_letters": [
@@ -1835,7 +1857,7 @@
   },
   {
     "id": "78a103e8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-25",
     "center_letter": "o",
     "outside_letters": [
@@ -1850,8 +1872,8 @@
       "broiling"
     ],
     "bingo_possible": true,
-    "total_score": 362,
-    "total_words": 71,
+    "total_score": 403,
+    "total_words": 81,
     "valid_words": [
       "billion",
       "bingo",
@@ -1860,14 +1882,18 @@
       "blogging",
       "bobbin",
       "bobbing",
+      "bobbling",
+      "bogging",
       "boggling",
       "boil",
       "boiling",
+      "boll",
       "bonbon",
       "bong",
       "bongo",
       "boning",
       "boob",
+      "boobing",
       "booing",
       "boon",
       "boor",
@@ -1878,7 +1904,9 @@
       "broiling",
       "gibbon",
       "gigolo",
+      "giro",
       "glob",
+      "gobbing",
       "gobbling",
       "goblin",
       "goggling",
@@ -1889,6 +1917,7 @@
       "gorging",
       "goring",
       "gringo",
+      "grog",
       "groin",
       "igloo",
       "ignoring",
@@ -1896,12 +1925,15 @@
       "iron",
       "ironing",
       "lingo",
+      "lino",
       "lion",
       "lobbing",
       "logging",
       "login",
       "logo",
       "loin",
+      "loll",
+      "lolling",
       "long",
       "longing",
       "loon",
@@ -1928,7 +1960,7 @@
   },
   {
     "id": "279e5f3f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-26",
     "center_letter": "o",
     "outside_letters": [
@@ -1943,8 +1975,8 @@
       "downturn"
     ],
     "bingo_possible": true,
-    "total_score": 171,
-    "total_words": 44,
+    "total_score": 179,
+    "total_words": 46,
     "valid_words": [
       "dodo",
       "donor",
@@ -1957,8 +1989,10 @@
       "dunno",
       "noon",
       "noun",
+      "nowt",
       "odor",
       "onto",
+      "orotund",
       "outdo",
       "outdoor",
       "outrun",
@@ -1994,7 +2028,7 @@
   },
   {
     "id": "3c1c24c6",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-27",
     "center_letter": "m",
     "outside_letters": [
@@ -2046,7 +2080,7 @@
   },
   {
     "id": "b4b37fd4",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-28",
     "center_letter": "i",
     "outside_letters": [
@@ -2062,8 +2096,8 @@
       "splicing"
     ],
     "bingo_possible": true,
-    "total_score": 451,
-    "total_words": 86,
+    "total_score": 458,
+    "total_words": 87,
     "valid_words": [
       "cling",
       "clinging",
@@ -2115,6 +2149,7 @@
       "pips",
       "piss",
       "pissing",
+      "siccing",
       "sics",
       "sign",
       "signing",
@@ -2155,7 +2190,7 @@
   },
   {
     "id": "8c4f33d9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-29",
     "center_letter": "i",
     "outside_letters": [
@@ -2171,15 +2206,18 @@
       "recoveries"
     ],
     "bingo_possible": false,
-    "total_score": 446,
-    "total_words": 72,
+    "total_score": 476,
+    "total_words": 77,
     "valid_words": [
+      "cervices",
       "civic",
       "civics",
       "civvies",
       "coercive",
+      "coir",
       "corrosive",
       "cosier",
+      "cosies",
       "crevice",
       "crevices",
       "crier",
@@ -2231,6 +2269,8 @@
       "sire",
       "siree",
       "sires",
+      "sirocco",
+      "siroccos",
       "sirs",
       "sissies",
       "soiree",
@@ -2250,7 +2290,7 @@
   },
   {
     "id": "84527e1c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-04-30",
     "center_letter": "t",
     "outside_letters": [
@@ -2327,7 +2367,7 @@
   },
   {
     "id": "0df2a532",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-01",
     "center_letter": "v",
     "outside_letters": [
@@ -2339,18 +2379,21 @@
       "a"
     ],
     "pangrams": [
+      "inveterate",
       "narrative",
       "veterinarian"
     ],
     "bingo_possible": true,
-    "total_score": 361,
-    "total_words": 58,
+    "total_score": 411,
+    "total_words": 64,
     "valid_words": [
       "arrive",
       "attentive",
       "avatar",
+      "aver",
       "avert",
       "avian",
+      "enervate",
       "even",
       "event",
       "ever",
@@ -2360,6 +2403,7 @@
       "invent",
       "inventive",
       "invert",
+      "inveterate",
       "invite",
       "irreverent",
       "naive",
@@ -2387,9 +2431,11 @@
       "rivet",
       "tavern",
       "tentative",
+      "titivate",
       "trivet",
       "trivia",
       "vain",
+      "vainer",
       "vane",
       "variant",
       "veer",
@@ -2403,12 +2449,13 @@
       "vine",
       "vintner",
       "vita",
+      "vitiate",
       "viva"
     ]
   },
   {
     "id": "46e4a829",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-02",
     "center_letter": "a",
     "outside_letters": [
@@ -2424,8 +2471,8 @@
       "military"
     ],
     "bingo_possible": false,
-    "total_score": 214,
-    "total_words": 49,
+    "total_score": 249,
+    "total_words": 55,
     "valid_words": [
       "airily",
       "airmail",
@@ -2440,11 +2487,15 @@
       "arty",
       "atria",
       "lair",
+      "lairy",
+      "laity",
+      "lariat",
       "liar",
       "llama",
       "mail",
       "maim",
       "malaria",
+      "malarial",
       "mall",
       "malt",
       "mama",
@@ -2469,6 +2520,8 @@
       "tarry",
       "tart",
       "tartar",
+      "tartly",
+      "tarty",
       "tatty",
       "tiara",
       "trail",
@@ -2480,7 +2533,7 @@
   },
   {
     "id": "e0725d83",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-03",
     "center_letter": "v",
     "outside_letters": [
@@ -2498,9 +2551,11 @@
       "severance"
     ],
     "bingo_possible": true,
-    "total_score": 487,
-    "total_words": 78,
+    "total_score": 505,
+    "total_words": 83,
     "valid_words": [
+      "aver",
+      "avers",
       "averse",
       "canvas",
       "canvases",
@@ -2516,8 +2571,10 @@
       "carves",
       "cassava",
       "cave",
+      "caver",
       "cavern",
       "caverns",
+      "cavers",
       "caves",
       "crave",
       "craven",
@@ -2567,6 +2624,7 @@
       "severance",
       "severe",
       "severs",
+      "vacs",
       "vane",
       "vanes",
       "vans",
@@ -2583,7 +2641,7 @@
   },
   {
     "id": "a06e21a5",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-04",
     "center_letter": "l",
     "outside_letters": [
@@ -2598,22 +2656,26 @@
       "pavilion"
     ],
     "bingo_possible": false,
-    "total_score": 136,
-    "total_words": 39,
+    "total_score": 169,
+    "total_words": 47,
     "valid_words": [
       "aioli",
       "aloo",
       "anal",
       "anvil",
+      "appal",
       "appall",
       "avail",
       "lain",
       "lanolin",
       "lava",
+      "lino",
       "lion",
       "loan",
       "loin",
+      "loll",
       "lollipop",
+      "lollop",
       "loon",
       "loop",
       "nail",
@@ -2624,7 +2686,9 @@
       "pall",
       "papal",
       "pavilion",
+      "pavlova",
       "pill",
+      "pillion",
       "plain",
       "plan",
       "plop",
@@ -2637,6 +2701,8 @@
       "vial",
       "villa",
       "villain",
+      "villi",
+      "viol",
       "viola",
       "violin",
       "voila"
@@ -2644,7 +2710,7 @@
   },
   {
     "id": "d44b13fe",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-05",
     "center_letter": "a",
     "outside_letters": [
@@ -2661,8 +2727,8 @@
       "overreact"
     ],
     "bingo_possible": true,
-    "total_score": 397,
-    "total_words": 75,
+    "total_score": 415,
+    "total_words": 79,
     "valid_words": [
       "acetate",
       "acre",
@@ -2672,6 +2738,7 @@
       "area",
       "attract",
       "avatar",
+      "aver",
       "avert",
       "cacao",
       "carat",
@@ -2687,10 +2754,13 @@
       "caterer",
       "cave",
       "caveat",
+      "caver",
+      "cavort",
       "coat",
       "cocoa",
       "crate",
       "crater",
+      "cravat",
       "crave",
       "create",
       "creator",
@@ -2743,7 +2813,7 @@
   },
   {
     "id": "4bc7039b",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-06",
     "center_letter": "c",
     "outside_letters": [
@@ -2755,11 +2825,12 @@
       "m"
     ],
     "pangrams": [
+      "dormice",
       "mediocre"
     ],
     "bingo_possible": false,
-    "total_score": 305,
-    "total_words": 58,
+    "total_score": 330,
+    "total_words": 62,
     "valid_words": [
       "cede",
       "ceded",
@@ -2769,6 +2840,7 @@
       "coed",
       "coerce",
       "coerced",
+      "coir",
       "come",
       "comedic",
       "comer",
@@ -2781,6 +2853,7 @@
       "cord",
       "core",
       "cored",
+      "corm",
       "corridor",
       "corrode",
       "corroded",
@@ -2804,11 +2877,13 @@
       "dice",
       "diced",
       "dicier",
+      "dormice",
       "emcee",
       "emceed",
       "iced",
       "icier",
       "medic",
+      "medico",
       "mediocre",
       "mice",
       "micro",
@@ -2823,7 +2898,7 @@
   },
   {
     "id": "e7036c72",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-07",
     "center_letter": "o",
     "outside_letters": [
@@ -2838,8 +2913,8 @@
       "unloads"
     ],
     "bingo_possible": true,
-    "total_score": 209,
-    "total_words": 57,
+    "total_score": 226,
+    "total_words": 61,
     "valid_words": [
       "aloo",
       "aloud",
@@ -2865,6 +2940,8 @@
       "loads",
       "loan",
       "loans",
+      "loll",
+      "lolls",
       "loon",
       "loons",
       "loos",
@@ -2877,6 +2954,8 @@
       "nouns",
       "odds",
       "onus",
+      "saddo",
+      "saddos",
       "salon",
       "salons",
       "saloon",
@@ -2902,7 +2981,7 @@
   },
   {
     "id": "4a4ffa26",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-08",
     "center_letter": "u",
     "outside_letters": [
@@ -2920,8 +2999,8 @@
       "pushing"
     ],
     "bingo_possible": true,
-    "total_score": 271,
-    "total_words": 51,
+    "total_score": 278,
+    "total_words": 52,
     "valid_words": [
       "gnus",
       "gunning",
@@ -2942,6 +3021,7 @@
       "pugs",
       "punish",
       "punishing",
+      "punning",
       "puns",
       "pups",
       "push",
@@ -2978,7 +3058,7 @@
   },
   {
     "id": "7d074f0f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-09",
     "center_letter": "c",
     "outside_letters": [
@@ -3032,7 +3112,7 @@
   },
   {
     "id": "e93820c9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-10",
     "center_letter": "t",
     "outside_letters": [
@@ -3132,7 +3212,7 @@
   },
   {
     "id": "e41f3060",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-11",
     "center_letter": "i",
     "outside_letters": [
@@ -3222,7 +3302,7 @@
   },
   {
     "id": "c20b0968",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-12",
     "center_letter": "a",
     "outside_letters": [
@@ -3296,7 +3376,7 @@
   },
   {
     "id": "3c285552",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-13",
     "center_letter": "l",
     "outside_letters": [
@@ -3312,8 +3392,8 @@
       "mullions"
     ],
     "bingo_possible": false,
-    "total_score": 195,
-    "total_words": 47,
+    "total_score": 202,
+    "total_words": 50,
     "valid_words": [
       "ills",
       "illusion",
@@ -3321,11 +3401,14 @@
       "insulin",
       "limo",
       "limos",
+      "lino",
       "lion",
       "lions",
       "lissom",
       "loin",
       "loins",
+      "loll",
+      "lolls",
       "loom",
       "looms",
       "loon",
@@ -3366,7 +3449,7 @@
   },
   {
     "id": "1d22b1c4",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-14",
     "center_letter": "e",
     "outside_letters": [
@@ -3457,7 +3540,7 @@
   },
   {
     "id": "684651a2",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-15",
     "center_letter": "i",
     "outside_letters": [
@@ -3473,8 +3556,8 @@
       "macaroni"
     ],
     "bingo_possible": true,
-    "total_score": 222,
-    "total_words": 39,
+    "total_score": 223,
+    "total_words": 40,
     "valid_words": [
       "acacia",
       "airman",
@@ -3486,6 +3569,7 @@
       "carrion",
       "cinnamon",
       "coin",
+      "coir",
       "comic",
       "crania",
       "icon",
@@ -3519,7 +3603,7 @@
   },
   {
     "id": "9aceea1f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-16",
     "center_letter": "i",
     "outside_letters": [
@@ -3611,7 +3695,7 @@
   },
   {
     "id": "0badf210",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-17",
     "center_letter": "h",
     "outside_letters": [
@@ -3698,7 +3782,7 @@
   },
   {
     "id": "3dbd29fa",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-18",
     "center_letter": "i",
     "outside_letters": [
@@ -3714,8 +3798,8 @@
       "hobgoblin"
     ],
     "bingo_possible": true,
-    "total_score": 346,
-    "total_words": 55,
+    "total_score": 383,
+    "total_words": 61,
     "valid_words": [
       "bill",
       "billing",
@@ -3728,10 +3812,13 @@
       "blogging",
       "bobbin",
       "bobbing",
+      "bobbling",
+      "bogging",
       "boggling",
       "boil",
       "boiling",
       "boning",
+      "boobing",
       "booing",
       "gibbon",
       "gibing",
@@ -3739,6 +3826,7 @@
       "gigolo",
       "gill",
       "glib",
+      "gobbing",
       "gobbling",
       "goblin",
       "goggling",
@@ -3756,11 +3844,13 @@
       "inning",
       "lingo",
       "lining",
+      "lino",
       "lion",
       "lobbing",
       "logging",
       "login",
       "loin",
+      "lolling",
       "longing",
       "nibbling",
       "niggling",
@@ -3776,7 +3866,7 @@
   },
   {
     "id": "6b0440f4",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-19",
     "center_letter": "w",
     "outside_letters": [
@@ -3791,8 +3881,8 @@
       "network"
     ],
     "bingo_possible": true,
-    "total_score": 157,
-    "total_words": 37,
+    "total_score": 158,
+    "total_words": 38,
     "valid_words": [
       "ewer",
       "knew",
@@ -3803,6 +3893,7 @@
       "newer",
       "newt",
       "newton",
+      "nowt",
       "owner",
       "renew",
       "renown",
@@ -3835,7 +3926,7 @@
   },
   {
     "id": "7996af8a",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-20",
     "center_letter": "i",
     "outside_letters": [
@@ -3932,7 +4023,7 @@
   },
   {
     "id": "480e1958",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-21",
     "center_letter": "u",
     "outside_letters": [
@@ -4022,7 +4113,7 @@
   },
   {
     "id": "a578a5fd",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-22",
     "center_letter": "i",
     "outside_letters": [
@@ -4091,7 +4182,7 @@
   },
   {
     "id": "d65c666a",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-23",
     "center_letter": "a",
     "outside_letters": [
@@ -4157,7 +4248,7 @@
   },
   {
     "id": "ccc7a9f8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-24",
     "center_letter": "t",
     "outside_letters": [
@@ -4254,7 +4345,7 @@
   },
   {
     "id": "c1e76225",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-25",
     "center_letter": "n",
     "outside_letters": [
@@ -4359,7 +4450,7 @@
   },
   {
     "id": "050f6ba8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-26",
     "center_letter": "a",
     "outside_letters": [
@@ -4374,8 +4465,8 @@
       "ungainly"
     ],
     "bingo_possible": true,
-    "total_score": 251,
-    "total_words": 48,
+    "total_score": 258,
+    "total_words": 49,
     "valid_words": [
       "again",
       "aging",
@@ -4403,6 +4494,7 @@
       "galling",
       "gang",
       "ganging",
+      "ganglia",
       "gangling",
       "gangly",
       "gauging",
@@ -4429,7 +4521,7 @@
   },
   {
     "id": "44999ca0",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-27",
     "center_letter": "i",
     "outside_letters": [
@@ -4489,7 +4581,7 @@
   },
   {
     "id": "ecacf5e5",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-28",
     "center_letter": "a",
     "outside_letters": [
@@ -4588,7 +4680,7 @@
   },
   {
     "id": "8e9302b1",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-29",
     "center_letter": "h",
     "outside_letters": [
@@ -4658,7 +4750,7 @@
   },
   {
     "id": "fd33c926",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-30",
     "center_letter": "u",
     "outside_letters": [
@@ -4735,7 +4827,7 @@
   },
   {
     "id": "e516a9d8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-05-31",
     "center_letter": "a",
     "outside_letters": [
@@ -4844,7 +4936,7 @@
   },
   {
     "id": "902583b2",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-01",
     "center_letter": "i",
     "outside_letters": [
@@ -4937,7 +5029,7 @@
   },
   {
     "id": "cfe72987",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-02",
     "center_letter": "a",
     "outside_letters": [
@@ -4954,8 +5046,8 @@
       "lauding"
     ],
     "bingo_possible": true,
-    "total_score": 320,
-    "total_words": 59,
+    "total_score": 327,
+    "total_words": 60,
     "valid_words": [
       "adding",
       "addling",
@@ -4990,6 +5082,7 @@
       "gang",
       "ganging",
       "gangland",
+      "ganglia",
       "gangling",
       "gauging",
       "glad",
@@ -5020,7 +5113,7 @@
   },
   {
     "id": "7659479f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-03",
     "center_letter": "l",
     "outside_letters": [
@@ -5036,8 +5129,8 @@
       "outlays"
     ],
     "bingo_possible": false,
-    "total_score": 401,
-    "total_words": 90,
+    "total_score": 407,
+    "total_words": 92,
     "valid_words": [
       "alas",
       "allot",
@@ -5063,6 +5156,8 @@
       "layout",
       "layouts",
       "lays",
+      "loll",
+      "lolls",
       "lolly",
       "loos",
       "loot",
@@ -5133,7 +5228,7 @@
   },
   {
     "id": "9d2a80b9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-04",
     "center_letter": "t",
     "outside_letters": [
@@ -5196,7 +5291,7 @@
   },
   {
     "id": "8adde465",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-05",
     "center_letter": "e",
     "outside_letters": [
@@ -5305,7 +5400,7 @@
   },
   {
     "id": "ff0b9352",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-06",
     "center_letter": "o",
     "outside_letters": [
@@ -5323,8 +5418,8 @@
       "sociologists"
     ],
     "bingo_possible": true,
-    "total_score": 369,
-    "total_words": 80,
+    "total_score": 375,
+    "total_words": 82,
     "valid_words": [
       "clog",
       "clogs",
@@ -5361,6 +5456,8 @@
       "logo",
       "logos",
       "logs",
+      "loll",
+      "lolls",
       "loos",
       "loot",
       "loots",
@@ -5410,7 +5507,7 @@
   },
   {
     "id": "6e906dd8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-07",
     "center_letter": "g",
     "outside_letters": [
@@ -5511,7 +5608,7 @@
   },
   {
     "id": "6ab3c028",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-08",
     "center_letter": "i",
     "outside_letters": [
@@ -5567,7 +5664,7 @@
   },
   {
     "id": "d99d5b1f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-09",
     "center_letter": "f",
     "outside_letters": [
@@ -5641,7 +5738,7 @@
   },
   {
     "id": "d433c755",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-10",
     "center_letter": "l",
     "outside_letters": [
@@ -5745,7 +5842,7 @@
   },
   {
     "id": "5a80fd8e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-11",
     "center_letter": "p",
     "outside_letters": [
@@ -5760,10 +5857,11 @@
       "flapping"
     ],
     "bingo_possible": false,
-    "total_score": 240,
-    "total_words": 44,
+    "total_score": 245,
+    "total_words": 45,
     "valid_words": [
       "aping",
+      "appal",
       "appall",
       "appalling",
       "fillip",
@@ -5811,7 +5909,7 @@
   },
   {
     "id": "3a8d6e3d",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-12",
     "center_letter": "a",
     "outside_letters": [
@@ -5926,7 +6024,7 @@
   },
   {
     "id": "82049c91",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-13",
     "center_letter": "l",
     "outside_letters": [
@@ -6033,7 +6131,7 @@
   },
   {
     "id": "377edd42",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-14",
     "center_letter": "n",
     "outside_letters": [
@@ -6119,7 +6217,7 @@
   },
   {
     "id": "abfa7a9f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-15",
     "center_letter": "u",
     "outside_letters": [
@@ -6236,7 +6334,7 @@
   },
   {
     "id": "78db1c42",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-16",
     "center_letter": "r",
     "outside_letters": [
@@ -6328,7 +6426,7 @@
   },
   {
     "id": "2ab2ff2f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-17",
     "center_letter": "o",
     "outside_letters": [
@@ -6343,8 +6441,8 @@
       "normally"
     ],
     "bingo_possible": false,
-    "total_score": 217,
-    "total_words": 56,
+    "total_score": 218,
+    "total_words": 57,
     "valid_words": [
       "alloy",
       "aloo",
@@ -6360,6 +6458,7 @@
       "loam",
       "loamy",
       "loan",
+      "loll",
       "lolly",
       "loom",
       "loon",
@@ -6406,7 +6505,7 @@
   },
   {
     "id": "1bb220a3",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-18",
     "center_letter": "h",
     "outside_letters": [
@@ -6505,7 +6604,7 @@
   },
   {
     "id": "c33e2c8e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-19",
     "center_letter": "s",
     "outside_letters": [
@@ -6521,8 +6620,8 @@
       "schlocky"
     ],
     "bingo_possible": false,
-    "total_score": 186,
-    "total_words": 36,
+    "total_score": 191,
+    "total_words": 37,
     "valid_words": [
       "chocks",
       "chooks",
@@ -6540,6 +6639,7 @@
       "kooks",
       "lochs",
       "locks",
+      "lolls",
       "looks",
       "loos",
       "loss",
@@ -6564,7 +6664,7 @@
   },
   {
     "id": "49f6bd4b",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-20",
     "center_letter": "o",
     "outside_letters": [
@@ -6582,8 +6682,8 @@
       "standouts"
     ],
     "bingo_possible": true,
-    "total_score": 296,
-    "total_words": 69,
+    "total_score": 307,
+    "total_words": 71,
     "valid_words": [
       "anon",
       "astound",
@@ -6616,6 +6716,8 @@
       "outdo",
       "outs",
       "outta",
+      "saddo",
+      "saddos",
       "snoot",
       "snoots",
       "snot",
@@ -6658,7 +6760,7 @@
   },
   {
     "id": "a35d45ae",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-21",
     "center_letter": "w",
     "outside_letters": [
@@ -6712,7 +6814,7 @@
   },
   {
     "id": "0448125f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-22",
     "center_letter": "d",
     "outside_letters": [
@@ -6781,7 +6883,7 @@
   },
   {
     "id": "738c360f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-23",
     "center_letter": "n",
     "outside_letters": [
@@ -6799,8 +6901,8 @@
       "libation"
     ],
     "bingo_possible": true,
-    "total_score": 329,
-    "total_words": 56,
+    "total_score": 330,
+    "total_words": 57,
     "valid_words": [
       "ablation",
       "abolition",
@@ -6832,6 +6934,7 @@
       "lain",
       "lanolin",
       "libation",
+      "lino",
       "lint",
       "lion",
       "loan",
@@ -6862,7 +6965,7 @@
   },
   {
     "id": "888cd4c5",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-24",
     "center_letter": "l",
     "outside_letters": [
@@ -6917,7 +7020,7 @@
   },
   {
     "id": "a7ebc3b8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-25",
     "center_letter": "o",
     "outside_letters": [
@@ -7002,7 +7105,7 @@
   },
   {
     "id": "db3eb9f4",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-26",
     "center_letter": "u",
     "outside_letters": [
@@ -7067,7 +7170,7 @@
   },
   {
     "id": "c11db4c6",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-27",
     "center_letter": "v",
     "outside_letters": [
@@ -7121,7 +7224,7 @@
   },
   {
     "id": "6f07448f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-28",
     "center_letter": "i",
     "outside_letters": [
@@ -7138,12 +7241,13 @@
       "divorcee"
     ],
     "bingo_possible": true,
-    "total_score": 450,
-    "total_words": 73,
+    "total_score": 451,
+    "total_words": 74,
     "valid_words": [
       "cider",
       "civic",
       "coercive",
+      "coir",
       "corridor",
       "crevice",
       "cried",
@@ -7218,7 +7322,7 @@
   },
   {
     "id": "a13f0f1f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-29",
     "center_letter": "o",
     "outside_letters": [
@@ -7233,8 +7337,8 @@
       "hopeful"
     ],
     "bingo_possible": false,
-    "total_score": 88,
-    "total_words": 29,
+    "total_score": 95,
+    "total_words": 31,
     "valid_words": [
       "elope",
       "floe",
@@ -7249,6 +7353,8 @@
       "hope",
       "hopeful",
       "hullo",
+      "loll",
+      "lollop",
       "loop",
       "loophole",
       "lope",
@@ -7269,7 +7375,7 @@
   },
   {
     "id": "c86573c7",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-06-30",
     "center_letter": "t",
     "outside_letters": [
@@ -7345,7 +7451,7 @@
   },
   {
     "id": "d7aa0cca",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-01",
     "center_letter": "u",
     "outside_letters": [
@@ -7457,7 +7563,7 @@
   },
   {
     "id": "85a099c0",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-02",
     "center_letter": "b",
     "outside_letters": [
@@ -7522,7 +7628,7 @@
   },
   {
     "id": "cd315de9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-03",
     "center_letter": "u",
     "outside_letters": [
@@ -7577,7 +7683,7 @@
   },
   {
     "id": "4a15e0cf",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-04",
     "center_letter": "a",
     "outside_letters": [
@@ -7636,7 +7742,7 @@
   },
   {
     "id": "0f382d7d",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-05",
     "center_letter": "o",
     "outside_letters": [
@@ -7723,7 +7829,7 @@
   },
   {
     "id": "f2cda7db",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-06",
     "center_letter": "g",
     "outside_letters": [
@@ -7835,7 +7941,7 @@
   },
   {
     "id": "d788392b",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-07",
     "center_letter": "o",
     "outside_letters": [
@@ -7852,8 +7958,8 @@
       "shoelaces"
     ],
     "bingo_possible": false,
-    "total_score": 472,
-    "total_words": 92,
+    "total_score": 478,
+    "total_words": 94,
     "valid_words": [
       "achoo",
       "alcohol",
@@ -7920,6 +8026,8 @@
       "loch",
       "lochs",
       "loco",
+      "loll",
+      "lolls",
       "loos",
       "loose",
       "looses",
@@ -7951,7 +8059,7 @@
   },
   {
     "id": "8968afb9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-08",
     "center_letter": "i",
     "outside_letters": [
@@ -8008,7 +8116,7 @@
   },
   {
     "id": "434b5153",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-09",
     "center_letter": "a",
     "outside_letters": [
@@ -8114,7 +8222,7 @@
   },
   {
     "id": "0c65de37",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-10",
     "center_letter": "i",
     "outside_letters": [
@@ -8220,7 +8328,7 @@
   },
   {
     "id": "bf36318c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-11",
     "center_letter": "n",
     "outside_letters": [
@@ -8333,7 +8441,7 @@
   },
   {
     "id": "16e0e6a0",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-12",
     "center_letter": "r",
     "outside_letters": [
@@ -8429,7 +8537,7 @@
   },
   {
     "id": "8449f434",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-13",
     "center_letter": "l",
     "outside_letters": [
@@ -8508,7 +8616,7 @@
   },
   {
     "id": "4207df70",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-14",
     "center_letter": "i",
     "outside_letters": [
@@ -8590,7 +8698,7 @@
   },
   {
     "id": "8945fdea",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-15",
     "center_letter": "o",
     "outside_letters": [
@@ -8678,7 +8786,7 @@
   },
   {
     "id": "9c67f1d2",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-16",
     "center_letter": "i",
     "outside_letters": [
@@ -8769,7 +8877,7 @@
   },
   {
     "id": "20e515b4",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-17",
     "center_letter": "b",
     "outside_letters": [
@@ -8862,7 +8970,7 @@
   },
   {
     "id": "c3bfe093",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-18",
     "center_letter": "r",
     "outside_letters": [
@@ -8925,7 +9033,7 @@
   },
   {
     "id": "4f003417",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-19",
     "center_letter": "a",
     "outside_letters": [
@@ -8940,12 +9048,13 @@
       "implant"
     ],
     "bingo_possible": true,
-    "total_score": 292,
-    "total_words": 64,
+    "total_score": 297,
+    "total_words": 65,
     "valid_words": [
       "anal",
       "animal",
       "anti",
+      "appal",
       "appall",
       "attain",
       "impala",
@@ -9011,7 +9120,7 @@
   },
   {
     "id": "095bf5a8",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-20",
     "center_letter": "l",
     "outside_letters": [
@@ -9087,7 +9196,7 @@
   },
   {
     "id": "90353d4e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-21",
     "center_letter": "c",
     "outside_letters": [
@@ -9199,7 +9308,7 @@
   },
   {
     "id": "43fb1898",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-22",
     "center_letter": "r",
     "outside_letters": [
@@ -9284,7 +9393,7 @@
   },
   {
     "id": "e0196dfb",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-23",
     "center_letter": "l",
     "outside_letters": [
@@ -9386,7 +9495,7 @@
   },
   {
     "id": "ae461953",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-24",
     "center_letter": "h",
     "outside_letters": [
@@ -9464,7 +9573,7 @@
   },
   {
     "id": "7a7c9f4c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-25",
     "center_letter": "c",
     "outside_letters": [
@@ -9522,7 +9631,7 @@
   },
   {
     "id": "a9c5a4a9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-26",
     "center_letter": "e",
     "outside_letters": [
@@ -9588,7 +9697,7 @@
   },
   {
     "id": "92d32d3c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-27",
     "center_letter": "u",
     "outside_letters": [
@@ -9673,7 +9782,7 @@
   },
   {
     "id": "891138e6",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-28",
     "center_letter": "u",
     "outside_letters": [
@@ -9759,7 +9868,7 @@
   },
   {
     "id": "a367a99f",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-29",
     "center_letter": "n",
     "outside_letters": [
@@ -9869,7 +9978,7 @@
   },
   {
     "id": "df02b7cd",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-30",
     "center_letter": "c",
     "outside_letters": [
@@ -9939,7 +10048,7 @@
   },
   {
     "id": "d67f6ffc",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-07-31",
     "center_letter": "i",
     "outside_letters": [
@@ -10013,7 +10122,7 @@
   },
   {
     "id": "71e708e9",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-01",
     "center_letter": "b",
     "outside_letters": [
@@ -10096,7 +10205,7 @@
   },
   {
     "id": "02a53731",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-02",
     "center_letter": "e",
     "outside_letters": [
@@ -10169,7 +10278,7 @@
   },
   {
     "id": "ab3a7fd5",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-03",
     "center_letter": "o",
     "outside_letters": [
@@ -10184,8 +10293,8 @@
       "galloping"
     ],
     "bingo_possible": true,
-    "total_score": 361,
-    "total_words": 74,
+    "total_score": 383,
+    "total_words": 79,
     "valid_words": [
       "agog",
       "aioli",
@@ -10217,6 +10326,7 @@
       "lagoon",
       "lanolin",
       "lingo",
+      "lino",
       "lion",
       "loan",
       "loaning",
@@ -10225,7 +10335,10 @@
       "login",
       "logo",
       "loin",
+      "loll",
+      "lolling",
       "lollipop",
+      "lollop",
       "lolloping",
       "long",
       "longing",
@@ -10244,6 +10357,7 @@
       "opining",
       "opinion",
       "piano",
+      "pillion",
       "pinion",
       "plop",
       "plopping",
@@ -10265,7 +10379,7 @@
   },
   {
     "id": "ec7f9078",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-04",
     "center_letter": "i",
     "outside_letters": [
@@ -10348,7 +10462,7 @@
   },
   {
     "id": "5dbe07ac",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-05",
     "center_letter": "c",
     "outside_letters": [
@@ -10437,7 +10551,7 @@
   },
   {
     "id": "4d3c5850",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-06",
     "center_letter": "a",
     "outside_letters": [
@@ -10497,7 +10611,7 @@
   },
   {
     "id": "11e5cc2d",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-07",
     "center_letter": "a",
     "outside_letters": [
@@ -10574,7 +10688,7 @@
   },
   {
     "id": "551dc728",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-08",
     "center_letter": "y",
     "outside_letters": [
@@ -10634,7 +10748,7 @@
   },
   {
     "id": "10dabd16",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-09",
     "center_letter": "i",
     "outside_letters": [
@@ -10650,9 +10764,10 @@
       "roughing"
     ],
     "bingo_possible": true,
-    "total_score": 288,
-    "total_words": 44,
+    "total_score": 289,
+    "total_words": 45,
     "valid_words": [
+      "giro",
       "going",
       "gorging",
       "goring",
@@ -10701,7 +10816,7 @@
   },
   {
     "id": "b5426be7",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-10",
     "center_letter": "c",
     "outside_letters": [
@@ -10755,7 +10870,7 @@
   },
   {
     "id": "5700ef55",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-11",
     "center_letter": "r",
     "outside_letters": [
@@ -10770,11 +10885,12 @@
       "comforts"
     ],
     "bingo_possible": false,
-    "total_score": 184,
-    "total_words": 42,
+    "total_score": 185,
+    "total_words": 43,
     "valid_words": [
       "comfort",
       "comforts",
+      "corm",
       "corms",
       "croc",
       "crocs",
@@ -10819,7 +10935,7 @@
   },
   {
     "id": "7e0da1f3",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-12",
     "center_letter": "s",
     "outside_letters": [
@@ -10903,7 +11019,7 @@
   },
   {
     "id": "d74f3e06",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-13",
     "center_letter": "a",
     "outside_letters": [
@@ -11007,7 +11123,7 @@
   },
   {
     "id": "eb68a52e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-14",
     "center_letter": "a",
     "outside_letters": [
@@ -11067,7 +11183,7 @@
   },
   {
     "id": "092bc95a",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-15",
     "center_letter": "v",
     "outside_letters": [
@@ -11082,8 +11198,8 @@
       "civilized"
     ],
     "bingo_possible": false,
-    "total_score": 174,
-    "total_words": 33,
+    "total_score": 179,
+    "total_words": 34,
     "valid_words": [
       "civic",
       "civil",
@@ -11117,12 +11233,13 @@
       "vice",
       "vied",
       "vile",
+      "villi",
       "vivid"
     ]
   },
   {
     "id": "055acfdc",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-16",
     "center_letter": "d",
     "outside_letters": [
@@ -11204,7 +11321,7 @@
   },
   {
     "id": "b9a2e9bc",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-17",
     "center_letter": "i",
     "outside_letters": [
@@ -11220,8 +11337,8 @@
       "volcanic"
     ],
     "bingo_possible": true,
-    "total_score": 260,
-    "total_words": 47,
+    "total_score": 267,
+    "total_words": 50,
     "valid_words": [
       "acacia",
       "aioli",
@@ -11252,6 +11369,7 @@
       "lain",
       "lanolin",
       "lilac",
+      "lino",
       "lion",
       "loci",
       "loin",
@@ -11264,7 +11382,9 @@
       "vial",
       "villa",
       "villain",
+      "villi",
       "vino",
+      "viol",
       "viola",
       "violin",
       "viva",
@@ -11274,7 +11394,7 @@
   },
   {
     "id": "a13148e3",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-18",
     "center_letter": "d",
     "outside_letters": [
@@ -11378,7 +11498,7 @@
   },
   {
     "id": "42863d85",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-19",
     "center_letter": "i",
     "outside_letters": [
@@ -11451,7 +11571,7 @@
   },
   {
     "id": "15928c3b",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-20",
     "center_letter": "t",
     "outside_letters": [
@@ -11544,7 +11664,7 @@
   },
   {
     "id": "b5642c97",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-21",
     "center_letter": "a",
     "outside_letters": [
@@ -11641,7 +11761,7 @@
   },
   {
     "id": "c9801c7e",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-22",
     "center_letter": "n",
     "outside_letters": [
@@ -11705,7 +11825,7 @@
   },
   {
     "id": "732ab1ca",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-23",
     "center_letter": "e",
     "outside_letters": [
@@ -11819,7 +11939,7 @@
   },
   {
     "id": "8477c29c",
-    "last_reviewed": "2025-04-18 10:53:10",
+    "last_reviewed": "2025-04-02 18:58:45",
     "live_date": "2025-08-24",
     "center_letter": "i",
     "outside_letters": [
