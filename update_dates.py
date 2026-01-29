@@ -5,8 +5,9 @@ from datetime import datetime, timedelta
 with open('puzzle_sets.json', 'r') as f:
     puzzles = json.load(f)
 
-# Set the starting date
-start_date = datetime(2025, 4, 3)
+# Set the starting date (today)
+start_date = datetime.now().date()
+start_date = datetime.combine(start_date, datetime.min.time())
 
 # Update each puzzle's live_date
 for i, puzzle in enumerate(puzzles):
