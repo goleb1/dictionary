@@ -1,7 +1,7 @@
 [
   {
     "id": "46a662e5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-02-19",
     "center_letter": "y",
     "outside_letters": [
@@ -17,12 +17,13 @@
       "graveyard"
     ],
     "bingo_possible": true,
-    "total_score": 151,
-    "total_words": 31,
+    "total_score": 156,
+    "total_words": 32,
     "valid_words": [
       "array",
       "arrayed",
       "daddy",
+      "daggy",
       "dray",
       "dreary",
       "dryer",
@@ -55,7 +56,7 @@
   },
   {
     "id": "a3e8d9a0",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-02-20",
     "center_letter": "a",
     "outside_letters": [
@@ -71,25 +72,30 @@
       "watchman"
     ],
     "bingo_possible": true,
-    "total_score": 107,
-    "total_words": 29,
+    "total_score": 133,
+    "total_words": 34,
     "valid_words": [
       "attach",
       "cancan",
       "cant",
+      "cantata",
       "catch",
       "chant",
       "chat",
       "hatch",
       "hath",
       "macaw",
+      "mahatma",
       "mama",
       "mamma",
+      "manana",
       "manna",
       "match",
       "math",
+      "matt",
       "naan",
       "nana",
+      "natch",
       "tact",
       "than",
       "that",
@@ -107,7 +113,7 @@
   },
   {
     "id": "9ccea77f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-02-21",
     "center_letter": "u",
     "outside_letters": [
@@ -123,8 +129,8 @@
       "fracture"
     ],
     "bingo_possible": true,
-    "total_score": 149,
-    "total_words": 32,
+    "total_score": 160,
+    "total_words": 34,
     "valid_words": [
       "accrue",
       "accurate",
@@ -133,6 +139,7 @@
       "aura",
       "auteur",
       "creature",
+      "cruet",
       "cuff",
       "curate",
       "cure",
@@ -149,6 +156,7 @@
       "refute",
       "ruff",
       "taut",
+      "tauter",
       "truce",
       "true",
       "truer",
@@ -162,7 +170,7 @@
   },
   {
     "id": "aaa74a04",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-02-22",
     "center_letter": "b",
     "outside_letters": [
@@ -178,11 +186,12 @@
       "bacteria"
     ],
     "bingo_possible": false,
-    "total_score": 244,
-    "total_words": 51,
+    "total_score": 288,
+    "total_words": 59,
     "valid_words": [
       "abate",
       "abet",
+      "acerbic",
       "arbiter",
       "arbitrate",
       "baba",
@@ -209,19 +218,25 @@
       "beet",
       "berate",
       "beret",
+      "beriberi",
       "beta",
       "better",
       "bicarb",
+      "bier",
       "bite",
       "bitter",
+      "braai",
       "brace",
+      "bract",
       "brat",
       "briar",
       "bribe",
       "brier",
       "cabaret",
       "cabbie",
+      "caber",
       "carb",
+      "cerebra",
       "ciabatta",
       "crab",
       "crib",
@@ -230,13 +245,14 @@
       "rarebit",
       "rebate",
       "tibia",
+      "tibiae",
       "titbit",
       "tribe"
     ]
   },
   {
     "id": "ef9daf63",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-02-23",
     "center_letter": "i",
     "outside_letters": [
@@ -252,25 +268,30 @@
       "immortal"
     ],
     "bingo_possible": true,
-    "total_score": 187,
-    "total_words": 43,
+    "total_score": 212,
+    "total_words": 49,
     "valid_words": [
       "aioli",
       "airmail",
       "aria",
       "atria",
+      "imam",
       "imitator",
       "immoral",
       "immortal",
       "iota",
       "lair",
+      "lariat",
       "liar",
+      "lilt",
       "limit",
       "limo",
+      "lira",
       "littoral",
       "mail",
       "maim",
       "malaria",
+      "malarial",
       "marital",
       "martial",
       "militia",
@@ -279,6 +300,7 @@
       "mitt",
       "moratoria",
       "omit",
+      "oratorio",
       "rail",
       "ratio",
       "riot",
@@ -302,7 +324,7 @@
   },
   {
     "id": "df32d32c",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-02-24",
     "center_letter": "a",
     "outside_letters": [
@@ -318,8 +340,8 @@
       "companion"
     ],
     "bingo_possible": false,
-    "total_score": 166,
-    "total_words": 38,
+    "total_score": 195,
+    "total_words": 45,
     "valid_words": [
       "acacia",
       "ammo",
@@ -331,27 +353,34 @@
       "cancan",
       "cannon",
       "canon",
+      "capon",
+      "ciao",
       "cinnamon",
       "cocoa",
       "coma",
       "comma",
       "companion",
       "conman",
+      "imam",
       "maim",
       "main",
       "mama",
       "mamma",
+      "manana",
       "mania",
       "maniac",
       "manic",
+      "manioc",
       "manna",
       "mica",
       "minima",
       "moan",
       "momma",
+      "monomania",
       "naan",
       "nana",
       "niacin",
+      "paan",
       "pain",
       "panama",
       "panic",
@@ -363,7 +392,7 @@
   },
   {
     "id": "c56fe042",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-02-25",
     "center_letter": "a",
     "outside_letters": [
@@ -379,13 +408,14 @@
       "covenant"
     ],
     "bingo_possible": true,
-    "total_score": 227,
-    "total_words": 47,
+    "total_score": 265,
+    "total_words": 54,
     "valid_words": [
       "accent",
       "acetate",
       "acetone",
       "acne",
+      "aeon",
       "annotate",
       "anon",
       "ante",
@@ -393,6 +423,7 @@
       "antennae",
       "atone",
       "cacao",
+      "caeca",
       "cancan",
       "cane",
       "cannon",
@@ -400,10 +431,13 @@
       "canoe",
       "canon",
       "cant",
+      "cantata",
       "canteen",
+      "canto",
       "canton",
       "cave",
       "caveat",
+      "cetacean",
       "coat",
       "cocoa",
       "concave",
@@ -418,6 +452,7 @@
       "neaten",
       "neonate",
       "nova",
+      "novae",
       "ocean",
       "octane",
       "octave",
@@ -426,6 +461,7 @@
       "tattoo",
       "teat",
       "tenant",
+      "toccata",
       "vacant",
       "vacate",
       "vane"
@@ -433,7 +469,7 @@
   },
   {
     "id": "9036b63f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-02-26",
     "center_letter": "i",
     "outside_letters": [
@@ -451,11 +487,12 @@
       "offprint"
     ],
     "bingo_possible": true,
-    "total_score": 183,
-    "total_words": 32,
+    "total_score": 205,
+    "total_words": 37,
     "valid_words": [
       "footprint",
       "info",
+      "innit",
       "into",
       "intro",
       "iron",
@@ -469,11 +506,13 @@
       "pinpoint",
       "pint",
       "pinto",
+      "piton",
       "point",
       "pontiff",
       "portion",
       "potion",
       "print",
+      "prion",
       "prior",
       "profit",
       "proportion",
@@ -482,15 +521,17 @@
       "riot",
       "roti",
       "tiff",
+      "tiffin",
       "tinpot",
       "tint",
+      "topi",
       "trio",
       "trip"
     ]
   },
   {
     "id": "120d2a12",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-02-27",
     "center_letter": "o",
     "outside_letters": [
@@ -506,9 +547,10 @@
       "airborne"
     ],
     "bingo_possible": true,
-    "total_score": 143,
-    "total_words": 35,
+    "total_score": 163,
+    "total_words": 40,
     "valid_words": [
+      "aeon",
       "airborne",
       "anion",
       "anon",
@@ -516,12 +558,14 @@
       "baboon",
       "baobab",
       "baron",
+      "barrio",
       "boar",
       "bobbin",
       "bonbon",
       "bone",
       "boner",
       "bonier",
+      "bonnier",
       "boob",
       "boon",
       "boor",
@@ -529,9 +573,11 @@
       "born",
       "borne",
       "boron",
+      "brio",
       "error",
       "inborn",
       "iron",
+      "nabob",
       "neon",
       "none",
       "noon",
@@ -548,7 +594,7 @@
   },
   {
     "id": "39966185",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-02-28",
     "center_letter": "o",
     "outside_letters": [
@@ -564,8 +610,8 @@
       "photograph"
     ],
     "bingo_possible": true,
-    "total_score": 199,
-    "total_words": 46,
+    "total_score": 213,
+    "total_words": 51,
     "valid_words": [
       "aggro",
       "agog",
@@ -574,9 +620,11 @@
       "atop",
       "gator",
       "goat",
+      "gogga",
       "goop",
       "goth",
       "gotta",
+      "grog",
       "grotto",
       "hoop",
       "hoot",
@@ -601,6 +649,8 @@
       "raptor",
       "roar",
       "root",
+      "rort",
+      "rota",
       "rotor",
       "taproot",
       "taro",
@@ -610,6 +660,7 @@
       "toga",
       "toot",
       "tooth",
+      "torpor",
       "tort",
       "troop",
       "trot"
@@ -617,7 +668,7 @@
   },
   {
     "id": "2af81078",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-03-01",
     "center_letter": "f",
     "outside_letters": [
@@ -633,8 +684,8 @@
       "fidelity"
     ],
     "bingo_possible": false,
-    "total_score": 202,
-    "total_words": 48,
+    "total_score": 225,
+    "total_words": 53,
     "valid_words": [
       "defied",
       "defile",
@@ -647,6 +698,7 @@
       "edified",
       "edify",
       "effed",
+      "effete",
       "feed",
       "feel",
       "feet",
@@ -654,10 +706,13 @@
       "felled",
       "felt",
       "fete",
+      "feted",
+      "fetid",
       "fiddle",
       "fiddled",
       "fiddly",
       "fidelity",
+      "fief",
       "field",
       "fielded",
       "fife",
@@ -679,6 +734,7 @@
       "flitted",
       "iffy",
       "left",
+      "leftie",
       "lefty",
       "life",
       "lift",
@@ -688,7 +744,7 @@
   },
   {
     "id": "cad58aa7",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-03-02",
     "center_letter": "i",
     "outside_letters": [
@@ -704,8 +760,8 @@
       "overtime"
     ],
     "bingo_possible": true,
-    "total_score": 247,
-    "total_words": 50,
+    "total_score": 259,
+    "total_words": 53,
     "valid_words": [
       "eerie",
       "eerier",
@@ -717,11 +773,13 @@
       "merit",
       "merrier",
       "meteorite",
+      "metier",
       "mime",
       "mire",
       "mirror",
       "mite",
       "miter",
+      "mitre",
       "mitt",
       "motive",
       "movie",
@@ -734,6 +792,7 @@
       "retriever",
       "reverie",
       "revive",
+      "rime",
       "riot",
       "rioter",
       "rite",
@@ -761,7 +820,7 @@
   },
   {
     "id": "bbc19ab1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-03-03",
     "center_letter": "d",
     "outside_letters": [
@@ -778,17 +837,20 @@
       "highland"
     ],
     "bingo_possible": true,
-    "total_score": 213,
-    "total_words": 36,
+    "total_score": 228,
+    "total_words": 39,
     "valid_words": [
       "adding",
       "addling",
       "aiding",
+      "dahlia",
       "dandling",
       "dang",
       "dangling",
+      "dhal",
       "dial",
       "dialing",
+      "dialling",
       "diddling",
       "digging",
       "dill",
@@ -821,7 +883,7 @@
   },
   {
     "id": "1bcdf789",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-03-04",
     "center_letter": "i",
     "outside_letters": [
@@ -837,8 +899,8 @@
       "primarily"
     ],
     "bingo_possible": false,
-    "total_score": 126,
-    "total_words": 31,
+    "total_score": 152,
+    "total_words": 37,
     "valid_words": [
       "airily",
       "airmail",
@@ -846,20 +908,26 @@
       "airy",
       "apiary",
       "aria",
+      "imam",
       "impair",
       "impala",
       "imply",
       "lair",
+      "lairy",
       "liar",
       "lily",
       "limp",
       "limply",
+      "lippy",
+      "lira",
       "mail",
       "maim",
       "malaria",
+      "malarial",
       "mill",
       "pail",
       "pair",
+      "papyri",
       "pill",
       "pillar",
       "pimp",
@@ -875,7 +943,7 @@
   },
   {
     "id": "b31ebc9f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-03-05",
     "center_letter": "v",
     "outside_letters": [
@@ -892,13 +960,15 @@
       "ventral"
     ],
     "bingo_possible": true,
-    "total_score": 314,
-    "total_words": 55,
+    "total_score": 336,
+    "total_words": 59,
     "valid_words": [
       "avatar",
+      "aver",
       "avert",
       "elevate",
       "eleven",
+      "enervate",
       "even",
       "event",
       "ever",
@@ -911,6 +981,7 @@
       "levee",
       "level",
       "leveler",
+      "leveller",
       "lever",
       "naval",
       "nave",
@@ -939,6 +1010,7 @@
       "vane",
       "veal",
       "veer",
+      "velar",
       "velvet",
       "velveteen",
       "venal",
@@ -954,7 +1026,7 @@
   },
   {
     "id": "7d4c9f51",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-03-06",
     "center_letter": "u",
     "outside_letters": [
@@ -970,11 +1042,13 @@
       "endurance"
     ],
     "bingo_possible": true,
-    "total_score": 226,
-    "total_words": 44,
+    "total_score": 239,
+    "total_words": 46,
     "valid_words": [
       "accrue",
       "accrued",
+      "adduce",
+      "adduced",
       "aura",
       "crud",
       "crude",
@@ -1021,7 +1095,7 @@
   },
   {
     "id": "c6b26840",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-03-07",
     "center_letter": "f",
     "outside_letters": [
@@ -1037,8 +1111,8 @@
       "artificial"
     ],
     "bingo_possible": false,
-    "total_score": 181,
-    "total_words": 42,
+    "total_score": 193,
+    "total_words": 45,
     "valid_words": [
       "afar",
       "affair",
@@ -1048,7 +1122,9 @@
       "alfalfa",
       "artifact",
       "artificial",
+      "caff",
       "calf",
+      "calif",
       "cliff",
       "craft",
       "facial",
@@ -1075,6 +1151,7 @@
       "friar",
       "frill",
       "lift",
+      "raffia",
       "raft",
       "riff",
       "riffraff",
@@ -1086,7 +1163,7 @@
   },
   {
     "id": "1ca69fa6",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-03-08",
     "center_letter": "e",
     "outside_letters": [
@@ -1102,12 +1179,13 @@
       "magazine"
     ],
     "bingo_possible": true,
-    "total_score": 181,
-    "total_words": 39,
+    "total_score": 202,
+    "total_words": 43,
     "valid_words": [
       "ageing",
       "amaze",
       "amen",
+      "anaemia",
       "anemia",
       "anime",
       "egging",
@@ -1118,9 +1196,11 @@
       "enigma",
       "gage",
       "game",
+      "gamine",
       "gaze",
       "gene",
       "genie",
+      "genning",
       "gimme",
       "image",
       "imagine",
@@ -1138,6 +1218,7 @@
       "meme",
       "menage",
       "mezzanine",
+      "mien",
       "mime",
       "mine",
       "minimize",
@@ -1148,7 +1229,7 @@
   },
   {
     "id": "11a4a6eb",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-03-09",
     "center_letter": "u",
     "outside_letters": [
@@ -1161,23 +1242,28 @@
     ],
     "anchor_word": "irregular",
     "pangrams": [
+      "guerilla",
       "guerrilla",
       "irregular"
     ],
     "bingo_possible": false,
-    "total_score": 160,
-    "total_words": 33,
+    "total_score": 190,
+    "total_words": 37,
     "valid_words": [
+      "ague",
       "alleluia",
       "allure",
       "argue",
       "arugula",
       "auger",
+      "augur",
       "aura",
       "aural",
       "gauge",
       "glue",
+      "gluier",
       "gruel",
+      "guerilla",
       "guerrilla",
       "guile",
       "gulag",
@@ -1205,7 +1291,7 @@
   },
   {
     "id": "2f01ce80",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-03-10",
     "center_letter": "m",
     "outside_letters": [
@@ -1221,8 +1307,8 @@
       "mercenary"
     ],
     "bingo_possible": true,
-    "total_score": 212,
-    "total_words": 44,
+    "total_score": 223,
+    "total_words": 46,
     "valid_words": [
       "acme",
       "amen",
@@ -1246,6 +1332,8 @@
       "mama",
       "mamma",
       "mammary",
+      "mammy",
+      "manana",
       "mane",
       "manna",
       "manner",
@@ -1272,7 +1360,7 @@
   },
   {
     "id": "44554a67",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-03-11",
     "center_letter": "c",
     "outside_letters": [
@@ -1293,8 +1381,8 @@
       "cleaning"
     ],
     "bingo_possible": true,
-    "total_score": 380,
-    "total_words": 53,
+    "total_score": 398,
+    "total_words": 56,
     "valid_words": [
       "acacia",
       "acing",
@@ -1303,6 +1391,7 @@
       "alliance",
       "angelic",
       "angelica",
+      "caeca",
       "cage",
       "caging",
       "call",
@@ -1318,6 +1407,7 @@
       "canning",
       "ceiling",
       "cell",
+      "ciggie",
       "clan",
       "clang",
       "clanging",
@@ -1344,6 +1434,7 @@
       "lancing",
       "lenience",
       "lice",
+      "licence",
       "lilac",
       "negligence",
       "niacin",
@@ -1353,7 +1444,7 @@
   },
   {
     "id": "5e617c1d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-03-12",
     "center_letter": "u",
     "outside_letters": [
@@ -1370,9 +1461,10 @@
       "untangle"
     ],
     "bingo_possible": false,
-    "total_score": 203,
-    "total_words": 42,
+    "total_score": 204,
+    "total_words": 43,
     "valid_words": [
+      "ague",
       "annual",
       "annul",
       "attenuate",
@@ -1419,7 +1511,7 @@
   },
   {
     "id": "5961efc6",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-03-13",
     "center_letter": "b",
     "outside_letters": [
@@ -1437,21 +1529,24 @@
       "diabetic"
     ],
     "bingo_possible": false,
-    "total_score": 227,
-    "total_words": 41,
+    "total_score": 240,
+    "total_words": 45,
     "valid_words": [
       "abate",
       "abated",
       "abdicate",
       "abdicated",
+      "abed",
       "abet",
       "abetted",
       "abide",
       "abided",
+      "baaed",
       "baba",
       "babe",
       "babied",
       "baddie",
+      "bade",
       "bait",
       "baited",
       "bated",
@@ -1479,13 +1574,14 @@
       "ebbed",
       "tabbed",
       "tibia",
+      "tibiae",
       "tidbit",
       "titbit"
     ]
   },
   {
     "id": "57273467",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-03-14",
     "center_letter": "l",
     "outside_letters": [
@@ -1504,8 +1600,8 @@
       "totalitarian"
     ],
     "bingo_possible": true,
-    "total_score": 257,
-    "total_words": 51,
+    "total_score": 267,
+    "total_words": 56,
     "valid_words": [
       "aioli",
       "allot",
@@ -1520,12 +1616,17 @@
       "lain",
       "lair",
       "lanolin",
+      "lariat",
       "liar",
+      "lilt",
+      "lino",
       "lint",
       "lion",
+      "lira",
       "littoral",
       "loan",
       "loin",
+      "loll",
       "loon",
       "loot",
       "lotion",
@@ -1562,7 +1663,7 @@
   },
   {
     "id": "c8fa047e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-03-15",
     "center_letter": "c",
     "outside_letters": [
@@ -1580,8 +1681,8 @@
       "metallic"
     ],
     "bingo_possible": true,
-    "total_score": 298,
-    "total_words": 52,
+    "total_score": 303,
+    "total_words": 53,
     "valid_words": [
       "acacia",
       "acclaim",
@@ -1590,6 +1691,7 @@
       "acme",
       "attic",
       "cacti",
+      "caeca",
       "call",
       "calm",
       "came",
@@ -1639,7 +1741,7 @@
   },
   {
     "id": "1ca7183e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-03-16",
     "center_letter": "a",
     "outside_letters": [
@@ -1655,10 +1757,11 @@
       "appendix"
     ],
     "bingo_possible": false,
-    "total_score": 155,
-    "total_words": 36,
+    "total_score": 163,
+    "total_words": 38,
     "valid_words": [
       "added",
+      "addenda",
       "aide",
       "aided",
       "annex",
@@ -1684,6 +1787,7 @@
       "nana",
       "nape",
       "napped",
+      "paan",
       "padded",
       "paean",
       "paid",
@@ -1698,7 +1802,7 @@
   },
   {
     "id": "afad857c",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-03-17",
     "center_letter": "i",
     "outside_letters": [
@@ -1716,14 +1820,15 @@
       "inhaled"
     ],
     "bingo_possible": true,
-    "total_score": 248,
-    "total_words": 51,
+    "total_score": 297,
+    "total_words": 60,
     "valid_words": [
       "aide",
       "aided",
       "ailed",
       "alien",
       "allied",
+      "dahlia",
       "dallied",
       "deadline",
       "deli",
@@ -1731,13 +1836,17 @@
       "denied",
       "dial",
       "dialed",
+      "dialled",
       "diddle",
       "diddled",
       "died",
       "dill",
       "dine",
       "dined",
+      "dinned",
       "eddied",
+      "elide",
+      "elided",
       "hail",
       "hailed",
       "headline",
@@ -1751,6 +1860,7 @@
       "ideal",
       "idle",
       "idled",
+      "ilea",
       "inane",
       "indeed",
       "indie",
@@ -1758,13 +1868,16 @@
       "inhaled",
       "inlaid",
       "inland",
+      "laddie",
       "laid",
       "lain",
       "landline",
       "lidded",
       "lied",
       "lien",
+      "linden",
       "line",
+      "lineal",
       "lined",
       "linen",
       "nail",
@@ -1774,7 +1887,7 @@
   },
   {
     "id": "80140519",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-03-18",
     "center_letter": "a",
     "outside_letters": [
@@ -1791,8 +1904,8 @@
       "maturity"
     ],
     "bingo_possible": false,
-    "total_score": 137,
-    "total_words": 30,
+    "total_score": 149,
+    "total_words": 34,
     "valid_words": [
       "airy",
       "amity",
@@ -1803,20 +1916,24 @@
       "atria",
       "atrium",
       "aura",
+      "imam",
       "immaturity",
       "maim",
       "mama",
       "mamma",
       "mammary",
+      "mammy",
       "marry",
       "mart",
       "martyr",
+      "matt",
       "maturity",
       "rarity",
       "ratty",
       "tarry",
       "tart",
       "tartar",
+      "tarty",
       "tatty",
       "taut",
       "tiara",
@@ -1828,7 +1945,7 @@
   },
   {
     "id": "75c233f0",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-03-19",
     "center_letter": "o",
     "outside_letters": [
@@ -1844,8 +1961,8 @@
       "downhill"
     ],
     "bingo_possible": true,
-    "total_score": 115,
-    "total_words": 28,
+    "total_score": 117,
+    "total_words": 30,
     "valid_words": [
       "dhow",
       "dildo",
@@ -1860,8 +1977,10 @@
       "howl",
       "idol",
       "lido",
+      "lino",
       "lion",
       "loin",
+      "loll",
       "loon",
       "lowdown",
       "noon",
@@ -1879,7 +1998,7 @@
   },
   {
     "id": "0319bf38",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-03-20",
     "center_letter": "a",
     "outside_letters": [
@@ -1895,8 +2014,8 @@
       "abnormal"
     ],
     "bingo_possible": true,
-    "total_score": 213,
-    "total_words": 54,
+    "total_score": 225,
+    "total_words": 57,
     "valid_words": [
       "abnormal",
       "alarm",
@@ -1927,6 +2046,7 @@
       "boar",
       "bran",
       "labor",
+      "lama",
       "lamb",
       "llama",
       "loam",
@@ -1937,6 +2057,7 @@
       "mambo",
       "mamma",
       "mammal",
+      "manana",
       "manna",
       "manor",
       "maroon",
@@ -1945,6 +2066,7 @@
       "momma",
       "moral",
       "naan",
+      "nabob",
       "nana",
       "normal",
       "oral",
@@ -1956,7 +2078,7 @@
   },
   {
     "id": "0765de86",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-03-21",
     "center_letter": "o",
     "outside_letters": [
@@ -2033,7 +2155,7 @@
   },
   {
     "id": "0ac2961b",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-03-22",
     "center_letter": "l",
     "outside_letters": [
@@ -2049,13 +2171,14 @@
       "remotely"
     ],
     "bingo_possible": true,
-    "total_score": 201,
-    "total_words": 44,
+    "total_score": 202,
+    "total_words": 45,
     "valid_words": [
       "eyelet",
       "leer",
       "leery",
       "letter",
+      "loll",
       "lolly",
       "loom",
       "loot",
@@ -2100,7 +2223,7 @@
   },
   {
     "id": "c347c493",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-03-23",
     "center_letter": "u",
     "outside_letters": [
@@ -2119,8 +2242,8 @@
       "pouting"
     ],
     "bingo_possible": true,
-    "total_score": 299,
-    "total_words": 43,
+    "total_score": 306,
+    "total_words": 44,
     "valid_words": [
       "gouging",
       "gout",
@@ -2147,6 +2270,7 @@
       "popgun",
       "pout",
       "pouting",
+      "punning",
       "punt",
       "punting",
       "putt",
@@ -2169,7 +2293,7 @@
   },
   {
     "id": "cc0e2b0a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-03-24",
     "center_letter": "a",
     "outside_letters": [
@@ -2185,8 +2309,8 @@
       "automatic"
     ],
     "bingo_possible": false,
-    "total_score": 121,
-    "total_words": 30,
+    "total_score": 131,
+    "total_words": 34,
     "valid_words": [
       "acacia",
       "ammo",
@@ -2198,14 +2322,17 @@
       "automatic",
       "cacao",
       "cacti",
+      "ciao",
       "coat",
       "cocoa",
       "coma",
       "comma",
+      "imam",
       "iota",
       "maim",
       "mama",
       "mamma",
+      "matt",
       "mica",
       "moat",
       "momma",
@@ -2216,13 +2343,14 @@
       "tactic",
       "tattoo",
       "taut",
+      "toccata",
       "tomato",
       "tomcat"
     ]
   },
   {
     "id": "d62be745",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-03-25",
     "center_letter": "a",
     "outside_letters": [
@@ -2239,8 +2367,8 @@
       "volatile"
     ],
     "bingo_possible": true,
-    "total_score": 203,
-    "total_words": 42,
+    "total_score": 225,
+    "total_words": 46,
     "valid_words": [
       "aioli",
       "alive",
@@ -2252,6 +2380,7 @@
       "atoll",
       "avail",
       "elevate",
+      "ilea",
       "iota",
       "late",
       "latte",
@@ -2262,6 +2391,7 @@
       "tail",
       "tale",
       "tall",
+      "tattie",
       "tattle",
       "tattletale",
       "tattoo",
@@ -2270,6 +2400,7 @@
       "teetotal",
       "telltale",
       "titillate",
+      "titivate",
       "total",
       "vale",
       "valet",
@@ -2281,6 +2412,7 @@
       "violate",
       "vita",
       "vital",
+      "vitiate",
       "viva",
       "voila",
       "volatile"
@@ -2288,7 +2420,7 @@
   },
   {
     "id": "0d26d506",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-03-26",
     "center_letter": "i",
     "outside_letters": [
@@ -2304,8 +2436,8 @@
       "obedience"
     ],
     "bingo_possible": true,
-    "total_score": 216,
-    "total_words": 39,
+    "total_score": 222,
+    "total_words": 40,
     "valid_words": [
       "bidden",
       "bide",
@@ -2330,6 +2462,7 @@
       "died",
       "dine",
       "dined",
+      "dinned",
       "diode",
       "eddied",
       "iced",
@@ -2350,7 +2483,7 @@
   },
   {
     "id": "820b1ed1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-03-27",
     "center_letter": "u",
     "outside_letters": [
@@ -2424,7 +2557,7 @@
   },
   {
     "id": "f4409687",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-03-28",
     "center_letter": "o",
     "outside_letters": [
@@ -2485,7 +2618,7 @@
   },
   {
     "id": "36b4beaf",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:30",
     "live_date": "2026-03-29",
     "center_letter": "d",
     "outside_letters": [
@@ -2502,8 +2635,8 @@
       "guarding"
     ],
     "bingo_possible": false,
-    "total_score": 270,
-    "total_words": 50,
+    "total_score": 280,
+    "total_words": 52,
     "valid_words": [
       "adding",
       "aiding",
@@ -2513,6 +2646,7 @@
       "darn",
       "darning",
       "digging",
+      "dinar",
       "ding",
       "dinging",
       "dining",
@@ -2544,6 +2678,7 @@
       "guarding",
       "guiding",
       "nada",
+      "nadir",
       "nudging",
       "radar",
       "radii",
@@ -2559,7 +2694,7 @@
   },
   {
     "id": "685f79b9",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-03-30",
     "center_letter": "c",
     "outside_letters": [
@@ -2576,8 +2711,8 @@
       "electrolyte"
     ],
     "bingo_possible": false,
-    "total_score": 191,
-    "total_words": 33,
+    "total_score": 213,
+    "total_words": 38,
     "valid_words": [
       "celery",
       "cell",
@@ -2592,13 +2727,16 @@
       "cool",
       "cooler",
       "coolly",
+      "coot",
       "core",
       "correct",
       "correctly",
       "coyly",
       "coyote",
+      "creel",
       "creole",
       "croc",
+      "crore",
       "cycle",
       "elect",
       "elector",
@@ -2607,16 +2745,18 @@
       "loco",
       "ocelot",
       "octet",
+      "recce",
       "recollect",
       "rector",
       "rectory",
       "recycle",
-      "reelect"
+      "reelect",
+      "rococo"
     ]
   },
   {
     "id": "990b9c1d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-03-31",
     "center_letter": "o",
     "outside_letters": [
@@ -2633,8 +2773,8 @@
       "raindrop"
     ],
     "bingo_possible": true,
-    "total_score": 193,
-    "total_words": 42,
+    "total_score": 203,
+    "total_words": 44,
     "valid_words": [
       "adorn",
       "airdrop",
@@ -2669,6 +2809,7 @@
       "poppa",
       "porn",
       "porno",
+      "prion",
       "prior",
       "prod",
       "prop",
@@ -2677,12 +2818,13 @@
       "raindrop",
       "road",
       "roan",
-      "roar"
+      "roar",
+      "rondo"
     ]
   },
   {
     "id": "049a8543",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-04-01",
     "center_letter": "o",
     "outside_letters": [
@@ -2698,11 +2840,13 @@
       "outright"
     ],
     "bingo_possible": false,
-    "total_score": 140,
-    "total_words": 34,
+    "total_score": 149,
+    "total_words": 38,
     "valid_words": [
+      "giro",
       "goth",
       "gout",
+      "grog",
       "grotto",
       "grout",
       "hoot",
@@ -2712,8 +2856,10 @@
       "outright",
       "righto",
       "rigor",
+      "rigour",
       "riot",
       "root",
+      "rort",
       "roti",
       "rotor",
       "rough",
@@ -2739,7 +2885,7 @@
   },
   {
     "id": "bac63394",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:30",
     "live_date": "2026-04-02",
     "center_letter": "g",
     "outside_letters": [
@@ -2755,8 +2901,8 @@
       "heritage"
     ],
     "bingo_possible": true,
-    "total_score": 293,
-    "total_words": 54,
+    "total_score": 306,
+    "total_words": 57,
     "valid_words": [
       "agar",
       "agate",
@@ -2792,13 +2938,16 @@
       "greet",
       "greeter",
       "grit",
+      "gritter",
       "grittier",
       "height",
       "heritage",
       "high",
       "higher",
       "irrigate",
+      "raga",
       "rage",
+      "ragga",
       "ragtag",
       "regatta",
       "reggae",
@@ -2816,7 +2965,7 @@
   },
   {
     "id": "7c9addde",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-04-03",
     "center_letter": "i",
     "outside_letters": [
@@ -2834,8 +2983,8 @@
       "typically"
     ],
     "bingo_possible": false,
-    "total_score": 221,
-    "total_words": 36,
+    "total_score": 237,
+    "total_words": 40,
     "valid_words": [
       "acacia",
       "attic",
@@ -2853,13 +3002,17 @@
       "illicit",
       "illicitly",
       "italic",
+      "laity",
       "lilac",
+      "lilt",
       "lily",
+      "lippy",
       "pail",
       "palatial",
       "piccalilli",
       "pill",
       "pita",
+      "pitta",
       "pity",
       "plait",
       "tacit",
@@ -2877,7 +3030,7 @@
   },
   {
     "id": "d86232fe",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-04-04",
     "center_letter": "g",
     "outside_letters": [
@@ -2894,8 +3047,8 @@
       "geriatric"
     ],
     "bingo_possible": true,
-    "total_score": 262,
-    "total_words": 46,
+    "total_score": 281,
+    "total_words": 50,
     "valid_words": [
       "acreage",
       "agar",
@@ -2908,6 +3061,7 @@
       "carriage",
       "cigar",
       "cigarette",
+      "ciggie",
       "crag",
       "eager",
       "egret",
@@ -2930,9 +3084,12 @@
       "greet",
       "greeter",
       "grit",
+      "gritter",
       "grittier",
       "irrigate",
+      "raga",
       "rage",
+      "ragga",
       "ragtag",
       "regatta",
       "reggae",
@@ -2947,7 +3104,7 @@
   },
   {
     "id": "b7f7a2a6",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-04-05",
     "center_letter": "i",
     "outside_letters": [
@@ -2963,8 +3120,8 @@
       "privilege"
     ],
     "bingo_possible": false,
-    "total_score": 230,
-    "total_words": 49,
+    "total_score": 242,
+    "total_words": 52,
     "valid_words": [
       "eerie",
       "eerier",
@@ -2981,6 +3138,7 @@
       "grip",
       "gripe",
       "liege",
+      "lire",
       "live",
       "livelier",
       "liver",
@@ -2997,6 +3155,7 @@
       "privilege",
       "relieve",
       "relive",
+      "rellie",
       "reprieve",
       "reveille",
       "reverie",
@@ -3013,13 +3172,14 @@
       "vigil",
       "vile",
       "viler",
+      "villi",
       "viper",
       "virile"
     ]
   },
   {
     "id": "188b6858",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-06",
     "center_letter": "u",
     "outside_letters": [
@@ -3035,8 +3195,8 @@
       "literature"
     ],
     "bingo_possible": false,
-    "total_score": 132,
-    "total_words": 29,
+    "total_score": 138,
+    "total_words": 30,
     "valid_words": [
       "alleluia",
       "allure",
@@ -3056,6 +3216,7 @@
       "ruler",
       "rural",
       "taut",
+      "tauter",
       "titular",
       "true",
       "truer",
@@ -3071,7 +3232,7 @@
   },
   {
     "id": "4c234002",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-04-07",
     "center_letter": "u",
     "outside_letters": [
@@ -3088,8 +3249,8 @@
       "fourteen"
     ],
     "bingo_possible": true,
-    "total_score": 275,
-    "total_words": 54,
+    "total_score": 289,
+    "total_words": 57,
     "valid_words": [
       "euro",
       "forerunner",
@@ -3098,9 +3259,11 @@
       "four",
       "fourteen",
       "furor",
+      "furore",
       "futon",
       "future",
       "neuron",
+      "neurone",
       "neuter",
       "neutron",
       "noun",
@@ -3115,6 +3278,7 @@
       "return",
       "returnee",
       "returner",
+      "roue",
       "rout",
       "route",
       "router",
@@ -3149,7 +3313,7 @@
   },
   {
     "id": "9be2790d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-08",
     "center_letter": "i",
     "outside_letters": [
@@ -3165,8 +3329,8 @@
       "ideology"
     ],
     "bingo_possible": true,
-    "total_score": 211,
-    "total_words": 44,
+    "total_score": 222,
+    "total_words": 46,
     "valid_words": [
       "deli",
       "diddle",
@@ -3181,6 +3345,8 @@
       "doily",
       "eddied",
       "edgily",
+      "elide",
+      "elided",
       "eyelid",
       "giddy",
       "gigged",
@@ -3216,7 +3382,7 @@
   },
   {
     "id": "507e27d4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-09",
     "center_letter": "c",
     "outside_letters": [
@@ -3236,8 +3402,8 @@
       "reciting"
     ],
     "bingo_possible": true,
-    "total_score": 284,
-    "total_words": 37,
+    "total_score": 300,
+    "total_words": 40,
     "valid_words": [
       "cent",
       "center",
@@ -3245,6 +3411,7 @@
       "centre",
       "centring",
       "cert",
+      "ciggie",
       "cite",
       "citing",
       "cretin",
@@ -3269,18 +3436,20 @@
       "nice",
       "nicer",
       "niece",
+      "recce",
       "recent",
       "recite",
       "reciting",
       "reticence",
       "reticent",
       "rice",
+      "ricin",
       "trice"
     ]
   },
   {
     "id": "91886cfe",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-04-10",
     "center_letter": "i",
     "outside_letters": [
@@ -3297,8 +3466,8 @@
       "legitimate"
     ],
     "bingo_possible": true,
-    "total_score": 248,
-    "total_words": 47,
+    "total_score": 258,
+    "total_words": 52,
     "valid_words": [
       "agile",
       "agitate",
@@ -3308,16 +3477,20 @@
       "gait",
       "giggle",
       "gill",
+      "gilt",
       "gimlet",
       "gimme",
+      "ilea",
       "illegal",
       "illegitimate",
       "image",
+      "imam",
       "imitate",
       "item",
       "legit",
       "legitimate",
       "liege",
+      "lilt",
       "lime",
       "limit",
       "lite",
@@ -3339,6 +3512,7 @@
       "tagliatelle",
       "tail",
       "tailgate",
+      "tattie",
       "teatime",
       "tile",
       "till",
@@ -3351,7 +3525,7 @@
   },
   {
     "id": "71897ffc",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-11",
     "center_letter": "e",
     "outside_letters": [
@@ -3367,8 +3541,8 @@
       "brochure"
     ],
     "bingo_possible": false,
-    "total_score": 110,
-    "total_words": 29,
+    "total_score": 135,
+    "total_words": 34,
     "valid_words": [
       "beech",
       "beer",
@@ -3383,6 +3557,7 @@
       "cohere",
       "core",
       "creche",
+      "crore",
       "cube",
       "cure",
       "echo",
@@ -3393,17 +3568,21 @@
       "here",
       "hero",
       "oboe",
+      "ocher",
       "ochre",
+      "recce",
+      "recherche",
       "recur",
       "robber",
       "robe",
+      "roue",
       "rubber",
       "rube"
     ]
   },
   {
     "id": "994a19e1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-04-12",
     "center_letter": "y",
     "outside_letters": [
@@ -3420,10 +3599,11 @@
       "eternally"
     ],
     "bingo_possible": true,
-    "total_score": 303,
-    "total_words": 53,
+    "total_score": 320,
+    "total_words": 57,
     "valid_words": [
       "alertly",
+      "allay",
       "alley",
       "ally",
       "alternately",
@@ -3461,6 +3641,8 @@
       "tally",
       "tannery",
       "tarry",
+      "tartly",
+      "tarty",
       "tatty",
       "teary",
       "teeny",
@@ -3471,6 +3653,7 @@
       "treaty",
       "tyranny",
       "tyrant",
+      "tyre",
       "yarn",
       "year",
       "yearly",
@@ -3480,7 +3663,7 @@
   },
   {
     "id": "0c854a49",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-04-13",
     "center_letter": "u",
     "outside_letters": [
@@ -3553,7 +3736,7 @@
   },
   {
     "id": "51ed744e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-14",
     "center_letter": "i",
     "outside_letters": [
@@ -3570,8 +3753,8 @@
       "dilation"
     ],
     "bingo_possible": true,
-    "total_score": 254,
-    "total_words": 48,
+    "total_score": 262,
+    "total_words": 52,
     "valid_words": [
       "addition",
       "additional",
@@ -3585,6 +3768,7 @@
       "dilation",
       "dildo",
       "dill",
+      "dint",
       "ditto",
       "donation",
       "idiot",
@@ -3593,6 +3777,7 @@
       "initiation",
       "inlaid",
       "inland",
+      "innit",
       "into",
       "intonation",
       "iota",
@@ -3600,6 +3785,8 @@
       "lain",
       "lanolin",
       "lido",
+      "lilt",
+      "lino",
       "lint",
       "lion",
       "loin",
@@ -3625,7 +3812,7 @@
   },
   {
     "id": "ffa0387e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-04-15",
     "center_letter": "l",
     "outside_letters": [
@@ -3642,8 +3829,8 @@
       "inertly"
     ],
     "bingo_possible": true,
-    "total_score": 235,
-    "total_words": 47,
+    "total_score": 255,
+    "total_words": 52,
     "valid_words": [
       "eerily",
       "elite",
@@ -3662,11 +3849,15 @@
       "lentil",
       "letter",
       "lien",
+      "lilt",
       "lily",
       "line",
       "linen",
       "liner",
+      "linnet",
       "lint",
+      "lintel",
+      "lire",
       "lite",
       "liter",
       "litre",
@@ -3677,6 +3868,7 @@
       "nettle",
       "reel",
       "relent",
+      "rellie",
       "rely",
       "retell",
       "rile",
@@ -3696,7 +3888,7 @@
   },
   {
     "id": "21a8d98a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-04-16",
     "center_letter": "h",
     "outside_letters": [
@@ -3714,8 +3906,8 @@
       "writhed"
     ],
     "bingo_possible": false,
-    "total_score": 279,
-    "total_words": 52,
+    "total_score": 292,
+    "total_words": 54,
     "valid_words": [
       "dither",
       "dithered",
@@ -3735,6 +3927,7 @@
       "hied",
       "hire",
       "hired",
+      "hither",
       "hitter",
       "teeth",
       "teethe",
@@ -3746,6 +3939,7 @@
       "there",
       "third",
       "thirtieth",
+      "thither",
       "three",
       "threw",
       "tithe",
@@ -3773,7 +3967,7 @@
   },
   {
     "id": "d8e28e10",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-04-17",
     "center_letter": "i",
     "outside_letters": [
@@ -3789,8 +3983,8 @@
       "infantry"
     ],
     "bingo_possible": false,
-    "total_score": 200,
-    "total_words": 43,
+    "total_score": 218,
+    "total_words": 47,
     "valid_words": [
       "affair",
       "affinity",
@@ -3812,11 +4006,14 @@
       "infant",
       "infantry",
       "infinity",
+      "innit",
       "irritant",
       "nifty",
       "ninny",
+      "raffia",
       "rain",
       "rainy",
+      "rani",
       "rarity",
       "ratify",
       "riff",
@@ -3827,6 +4024,7 @@
       "tariff",
       "tiara",
       "tiff",
+      "tiffin",
       "tinny",
       "tint",
       "tiny",
@@ -3839,7 +4037,7 @@
   },
   {
     "id": "a15d1eb1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-04-18",
     "center_letter": "f",
     "outside_letters": [
@@ -3855,8 +4053,8 @@
       "barefoot"
     ],
     "bingo_possible": true,
-    "total_score": 219,
-    "total_words": 50,
+    "total_score": 225,
+    "total_words": 51,
     "valid_words": [
       "afar",
       "afoot",
@@ -3868,6 +4066,7 @@
       "before",
       "bereft",
       "boffo",
+      "effete",
       "effort",
       "faff",
       "fare",
@@ -3912,7 +4111,7 @@
   },
   {
     "id": "945a944f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-04-19",
     "center_letter": "a",
     "outside_letters": [
@@ -3928,8 +4127,8 @@
       "individual"
     ],
     "bingo_possible": true,
-    "total_score": 152,
-    "total_words": 38,
+    "total_score": 158,
+    "total_words": 39,
     "valid_words": [
       "alluvial",
       "anal",
@@ -3950,6 +4149,7 @@
       "laid",
       "lain",
       "land",
+      "landau",
       "laud",
       "lava",
       "luau",
@@ -3973,7 +4173,7 @@
   },
   {
     "id": "48d3f521",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-04-20",
     "center_letter": "u",
     "outside_letters": [
@@ -3991,8 +4191,8 @@
       "tempura"
     ],
     "bingo_possible": true,
-    "total_score": 304,
-    "total_words": 52,
+    "total_score": 310,
+    "total_words": 53,
     "valid_words": [
       "amateur",
       "amputate",
@@ -4033,6 +4233,7 @@
       "rupture",
       "taupe",
       "taut",
+      "tauter",
       "temperature",
       "tempura",
       "trauma",
@@ -4050,7 +4251,7 @@
   },
   {
     "id": "af6adf71",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-04-21",
     "center_letter": "o",
     "outside_letters": [
@@ -4066,8 +4267,8 @@
       "downfall"
     ],
     "bingo_possible": true,
-    "total_score": 142,
-    "total_words": 39,
+    "total_score": 143,
+    "total_words": 40,
     "valid_words": [
       "allow",
       "aloo",
@@ -4095,6 +4296,7 @@
       "load",
       "loaf",
       "loan",
+      "loll",
       "loon",
       "lowdown",
       "lowland",
@@ -4112,7 +4314,7 @@
   },
   {
     "id": "b5f2373a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-04-22",
     "center_letter": "n",
     "outside_letters": [
@@ -4128,16 +4330,19 @@
       "mentally"
     ],
     "bingo_possible": false,
-    "total_score": 244,
-    "total_words": 51,
+    "total_score": 272,
+    "total_words": 57,
     "valid_words": [
       "amen",
       "anal",
       "anally",
+      "anneal",
       "ante",
+      "antenatal",
       "antenna",
       "antennae",
       "eaten",
+      "elan",
       "element",
       "elemental",
       "emanate",
@@ -4151,7 +4356,9 @@
       "layman",
       "laymen",
       "lean",
+      "leant",
       "lent",
+      "manana",
       "manatee",
       "mane",
       "manly",
@@ -4174,6 +4381,7 @@
       "neat",
       "neaten",
       "neatly",
+      "nett",
       "nettle",
       "talent",
       "teen",
@@ -4186,7 +4394,7 @@
   },
   {
     "id": "d859900d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-04-23",
     "center_letter": "r",
     "outside_letters": [
@@ -4202,8 +4410,8 @@
       "laboratory"
     ],
     "bingo_possible": false,
-    "total_score": 180,
-    "total_words": 42,
+    "total_score": 194,
+    "total_words": 47,
     "valid_words": [
       "abort",
       "altar",
@@ -4232,6 +4440,8 @@
       "robot",
       "roll",
       "root",
+      "rort",
+      "rota",
       "rotary",
       "rotor",
       "royal",
@@ -4242,16 +4452,19 @@
       "tarry",
       "tart",
       "tartar",
+      "tartly",
+      "tarty",
       "toolbar",
       "tort",
       "tray",
       "troll",
-      "trot"
+      "trot",
+      "tyro"
     ]
   },
   {
     "id": "59d82dc5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-04-24",
     "center_letter": "i",
     "outside_letters": [
@@ -4268,10 +4481,11 @@
       "ethical"
     ],
     "bingo_possible": true,
-    "total_score": 267,
-    "total_words": 50,
+    "total_score": 286,
+    "total_words": 55,
     "valid_words": [
       "acacia",
+      "aitch",
       "athletic",
       "attic",
       "cacti",
@@ -4281,6 +4495,7 @@
       "chile",
       "chili",
       "chill",
+      "chilli",
       "chit",
       "chitchat",
       "cite",
@@ -4297,6 +4512,7 @@
       "hilt",
       "hitch",
       "icicle",
+      "ilea",
       "illicit",
       "italic",
       "itch",
@@ -4304,6 +4520,7 @@
       "lattice",
       "lice",
       "lilac",
+      "lilt",
       "litchi",
       "lite",
       "lithe",
@@ -4313,6 +4530,7 @@
       "tactical",
       "tactile",
       "tail",
+      "tattie",
       "techie",
       "tile",
       "till",
@@ -4325,7 +4543,7 @@
   },
   {
     "id": "6a3c9f42",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-04-25",
     "center_letter": "a",
     "outside_letters": [
@@ -4341,13 +4559,14 @@
       "chaplain"
     ],
     "bingo_possible": false,
-    "total_score": 176,
-    "total_words": 40,
+    "total_score": 182,
+    "total_words": 42,
     "valid_words": [
       "acacia",
       "alpaca",
       "alpha",
       "anal",
+      "appal",
       "appall",
       "caliph",
       "call",
@@ -4371,6 +4590,7 @@
       "nail",
       "nana",
       "niacin",
+      "paan",
       "pail",
       "pain",
       "pall",
@@ -4388,7 +4608,7 @@
   },
   {
     "id": "9e60e9e4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-04-26",
     "center_letter": "y",
     "outside_letters": [
@@ -4404,9 +4624,10 @@
       "generally"
     ],
     "bingo_possible": true,
-    "total_score": 251,
-    "total_words": 47,
+    "total_score": 256,
+    "total_words": 48,
     "valid_words": [
+      "allay",
       "allergy",
       "alley",
       "ally",
@@ -4458,7 +4679,7 @@
   },
   {
     "id": "83b2cc86",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-04-27",
     "center_letter": "u",
     "outside_letters": [
@@ -4475,12 +4696,14 @@
       "graduated"
     ],
     "bingo_possible": false,
-    "total_score": 258,
-    "total_words": 49,
+    "total_score": 271,
+    "total_words": 53,
     "valid_words": [
+      "ague",
       "argue",
       "argued",
       "auger",
+      "augur",
       "augured",
       "aura",
       "auteur",
@@ -4511,10 +4734,12 @@
       "rugger",
       "rutted",
       "taut",
+      "tauter",
       "trudge",
       "trudged",
       "true",
       "truer",
+      "trug",
       "tugged",
       "turd",
       "turret",
@@ -4531,7 +4756,7 @@
   },
   {
     "id": "84df3cb4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-04-28",
     "center_letter": "i",
     "outside_letters": [
@@ -4547,9 +4772,9 @@
       "alligator",
       "litigator"
     ],
-    "bingo_possible": false,
-    "total_score": 167,
-    "total_words": 39,
+    "bingo_possible": true,
+    "total_score": 195,
+    "total_words": 45,
     "valid_words": [
       "agitator",
       "aioli",
@@ -4559,7 +4784,9 @@
       "gait",
       "gigolo",
       "gill",
+      "gilt",
       "girl",
+      "giro",
       "girt",
       "gorilla",
       "grill",
@@ -4567,10 +4794,14 @@
       "igloo",
       "iota",
       "lair",
+      "lariat",
       "liar",
+      "lilt",
+      "lira",
       "litigator",
       "littoral",
       "loggia",
+      "oratorio",
       "rail",
       "ratio",
       "rigor",
@@ -4594,7 +4825,7 @@
   },
   {
     "id": "a9994261",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-04-29",
     "center_letter": "u",
     "outside_letters": [
@@ -4665,7 +4896,7 @@
   },
   {
     "id": "d061a094",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-04-30",
     "center_letter": "e",
     "outside_letters": [
@@ -4681,9 +4912,10 @@
       "phenomena"
     ],
     "bingo_possible": true,
-    "total_score": 125,
-    "total_words": 37,
+    "total_score": 126,
+    "total_words": 38,
     "valid_words": [
+      "aeon",
       "ahem",
       "amen",
       "anemone",
@@ -4725,7 +4957,7 @@
   },
   {
     "id": "18f6666a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-01",
     "center_letter": "u",
     "outside_letters": [
@@ -4744,12 +4976,14 @@
       "unguarded"
     ],
     "bingo_possible": true,
-    "total_score": 327,
-    "total_words": 55,
+    "total_score": 333,
+    "total_words": 57,
     "valid_words": [
+      "ague",
       "argue",
       "argued",
       "auger",
+      "augur",
       "augured",
       "aura",
       "denude",
@@ -4806,7 +5040,7 @@
   },
   {
     "id": "3aff4b33",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-05-02",
     "center_letter": "m",
     "outside_letters": [
@@ -4823,8 +5057,8 @@
       "marrying"
     ],
     "bingo_possible": false,
-    "total_score": 251,
-    "total_words": 44,
+    "total_score": 275,
+    "total_words": 49,
     "valid_words": [
       "aiming",
       "airman",
@@ -4843,6 +5077,7 @@
       "imaginary",
       "imaging",
       "imagining",
+      "imam",
       "magma",
       "maim",
       "maiming",
@@ -4850,7 +5085,9 @@
       "mama",
       "mamma",
       "mammary",
+      "mammy",
       "managing",
+      "manana",
       "manga",
       "mangy",
       "mania",
@@ -4863,8 +5100,10 @@
       "marry",
       "marrying",
       "miming",
+      "minging",
       "mingy",
       "mini",
+      "minim",
       "minima",
       "mining",
       "naming",
@@ -4874,7 +5113,7 @@
   },
   {
     "id": "6fff5ba2",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-05-03",
     "center_letter": "a",
     "outside_letters": [
@@ -4890,19 +5129,22 @@
       "gradually"
     ],
     "bingo_possible": false,
-    "total_score": 144,
-    "total_words": 37,
+    "total_score": 165,
+    "total_words": 42,
     "valid_words": [
       "agar",
       "algal",
+      "allay",
       "ally",
       "array",
       "arugula",
+      "augur",
       "augury",
       "aura",
       "aural",
       "aurally",
       "daddy",
+      "daggy",
       "dally",
       "drag",
       "dray",
@@ -4927,6 +5169,8 @@
       "laud",
       "luau",
       "radar",
+      "raga",
+      "ragga",
       "rally",
       "rural",
       "yard"
@@ -4934,7 +5178,7 @@
   },
   {
     "id": "88d31bc6",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-05-04",
     "center_letter": "w",
     "outside_letters": [
@@ -4951,8 +5195,8 @@
       "waterfall"
     ],
     "bingo_possible": false,
-    "total_score": 172,
-    "total_words": 37,
+    "total_score": 173,
+    "total_words": 38,
     "valid_words": [
       "aware",
       "ewer",
@@ -4982,6 +5226,7 @@
       "waterfall",
       "watt",
       "wattle",
+      "weal",
       "wear",
       "wearer",
       "weft",
@@ -4995,7 +5240,7 @@
   },
   {
     "id": "210f3c2e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-05",
     "center_letter": "e",
     "outside_letters": [
@@ -5011,15 +5256,17 @@
       "anyplace"
     ],
     "bingo_possible": true,
-    "total_score": 206,
-    "total_words": 49,
+    "total_score": 218,
+    "total_words": 52,
     "valid_words": [
       "acne",
       "alley",
+      "anneal",
       "anyplace",
       "apace",
       "appeal",
       "apple",
+      "caeca",
       "canape",
       "cancel",
       "cane",
@@ -5029,6 +5276,7 @@
       "clean",
       "cleanly",
       "cycle",
+      "elan",
       "epee",
       "lace",
       "lance",
@@ -5067,7 +5315,7 @@
   },
   {
     "id": "44c642f5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-05-06",
     "center_letter": "i",
     "outside_letters": [
@@ -5084,8 +5332,8 @@
       "macaroni"
     ],
     "bingo_possible": true,
-    "total_score": 207,
-    "total_words": 37,
+    "total_score": 246,
+    "total_words": 47,
     "valid_words": [
       "acacia",
       "airman",
@@ -5095,12 +5343,17 @@
       "cairn",
       "carcinoma",
       "carrion",
+      "ciao",
       "cinnamon",
+      "circa",
       "coin",
+      "coir",
       "comic",
+      "craic",
       "crania",
       "icon",
       "iconic",
+      "imam",
       "ionic",
       "iron",
       "ironic",
@@ -5110,25 +5363,30 @@
       "mania",
       "maniac",
       "manic",
+      "manioc",
       "marina",
       "mica",
       "micro",
       "micron",
       "mimic",
       "mini",
+      "minim",
       "minima",
       "minion",
       "minor",
       "mirror",
+      "monomania",
       "moronic",
       "niacin",
       "onion",
-      "rain"
+      "rain",
+      "rani",
+      "ricin"
     ]
   },
   {
     "id": "53d29d2f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-05-07",
     "center_letter": "c",
     "outside_letters": [
@@ -5147,8 +5405,8 @@
       "pittance"
     ],
     "bingo_possible": true,
-    "total_score": 336,
-    "total_words": 53,
+    "total_score": 356,
+    "total_words": 56,
     "valid_words": [
       "acacia",
       "accent",
@@ -5162,17 +5420,20 @@
       "apiece",
       "attic",
       "cacti",
+      "caeca",
       "canape",
       "cancan",
       "cane",
       "canine",
       "cant",
+      "cantata",
       "canteen",
       "cape",
       "captain",
       "catnap",
       "catnip",
       "cent",
+      "cetacean",
       "cite",
       "enact",
       "entice",
@@ -5207,7 +5468,7 @@
   },
   {
     "id": "90acb64b",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-05-08",
     "center_letter": "u",
     "outside_letters": [
@@ -5285,7 +5546,7 @@
   },
   {
     "id": "5adb53ef",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-05-09",
     "center_letter": "y",
     "outside_letters": [
@@ -5304,12 +5565,13 @@
       "reality"
     ],
     "bingo_possible": false,
-    "total_score": 289,
-    "total_words": 49,
+    "total_score": 321,
+    "total_words": 56,
     "valid_words": [
       "airily",
       "airy",
       "alertly",
+      "allay",
       "alley",
       "ally",
       "array",
@@ -5320,6 +5582,9 @@
       "eatery",
       "eerily",
       "eyelet",
+      "eyrie",
+      "lairy",
+      "laity",
       "lately",
       "laterally",
       "latterly",
@@ -5343,6 +5608,8 @@
       "retry",
       "tally",
       "tarry",
+      "tartly",
+      "tarty",
       "tatty",
       "teary",
       "telly",
@@ -5352,6 +5619,7 @@
       "tray",
       "treaty",
       "tritely",
+      "tyre",
       "year",
       "yearly",
       "yell",
@@ -5360,7 +5628,7 @@
   },
   {
     "id": "a5eacfb6",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-05-10",
     "center_letter": "o",
     "outside_letters": [
@@ -5377,8 +5645,8 @@
       "overthrow"
     ],
     "bingo_possible": true,
-    "total_score": 253,
-    "total_words": 51,
+    "total_score": 260,
+    "total_words": 53,
     "valid_words": [
       "error",
       "hereto",
@@ -5403,8 +5671,10 @@
       "rewrote",
       "root",
       "rooter",
+      "rort",
       "rote",
       "rotor",
+      "rotter",
       "rove",
       "rover",
       "rower",
@@ -5435,7 +5705,7 @@
   },
   {
     "id": "8ce97f44",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-05-11",
     "center_letter": "i",
     "outside_letters": [
@@ -5452,10 +5722,11 @@
       "mechanic"
     ],
     "bingo_possible": false,
-    "total_score": 207,
-    "total_words": 41,
+    "total_score": 221,
+    "total_words": 45,
     "valid_words": [
       "acacia",
+      "anaemia",
       "anaemic",
       "anemia",
       "anemic",
@@ -5472,6 +5743,7 @@
       "cinema",
       "echinacea",
       "eminence",
+      "imam",
       "imminence",
       "inane",
       "inch",
@@ -5485,11 +5757,13 @@
       "mechanic",
       "mica",
       "mice",
+      "mien",
       "mime",
       "mimic",
       "mince",
       "mine",
       "mini",
+      "minim",
       "minima",
       "niacin",
       "nice",
@@ -5500,7 +5774,7 @@
   },
   {
     "id": "76a3c8a8",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-05-12",
     "center_letter": "i",
     "outside_letters": [
@@ -5518,11 +5792,12 @@
       "patriotic"
     ],
     "bingo_possible": true,
-    "total_score": 219,
-    "total_words": 36,
+    "total_score": 251,
+    "total_words": 44,
     "valid_words": [
       "acacia",
       "airport",
+      "aortic",
       "apricot",
       "arctic",
       "aria",
@@ -5530,15 +5805,21 @@
       "attic",
       "cacti",
       "capacitor",
+      "ciao",
+      "circa",
+      "coir",
+      "craic",
       "critic",
       "iota",
       "octopi",
       "optic",
+      "oratorio",
       "pair",
       "patio",
       "patriot",
       "patriotic",
       "pita",
+      "pitta",
       "portico",
       "portrait",
       "prior",
@@ -5551,6 +5832,7 @@
       "tapioca",
       "tapir",
       "tiara",
+      "topi",
       "topic",
       "trait",
       "traitor",
@@ -5561,7 +5843,7 @@
   },
   {
     "id": "5bcc45bd",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-05-13",
     "center_letter": "u",
     "outside_letters": [
@@ -5635,7 +5917,7 @@
   },
   {
     "id": "71c0f3b4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-05-14",
     "center_letter": "e",
     "outside_letters": [
@@ -5651,8 +5933,8 @@
       "wormhole"
     ],
     "bingo_possible": false,
-    "total_score": 150,
-    "total_words": 44,
+    "total_score": 156,
+    "total_words": 45,
     "valid_words": [
       "error",
       "ewer",
@@ -5687,6 +5969,7 @@
       "role",
       "roller",
       "romeo",
+      "roomer",
       "rower",
       "well",
       "were",
@@ -5702,7 +5985,7 @@
   },
   {
     "id": "79cdbada",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-05-15",
     "center_letter": "o",
     "outside_letters": [
@@ -5718,8 +6001,8 @@
       "concubine"
     ],
     "bingo_possible": false,
-    "total_score": 121,
-    "total_words": 29,
+    "total_score": 133,
+    "total_words": 31,
     "valid_words": [
       "bionic",
       "bobbin",
@@ -5739,12 +6022,14 @@
       "iconic",
       "innocence",
       "ionic",
+      "neocon",
       "neon",
       "nonce",
       "none",
       "nonunion",
       "noon",
       "noun",
+      "nuncio",
       "oboe",
       "once",
       "onion",
@@ -5754,7 +6039,7 @@
   },
   {
     "id": "dcd0ec02",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-05-16",
     "center_letter": "p",
     "outside_letters": [
@@ -5770,16 +6055,18 @@
       "impatient"
     ],
     "bingo_possible": false,
-    "total_score": 175,
-    "total_words": 40,
+    "total_score": 196,
+    "total_words": 44,
     "valid_words": [
       "appetite",
       "attempt",
       "epee",
       "impatient",
+      "impenitent",
       "inept",
       "inpatient",
       "nape",
+      "paan",
       "paean",
       "pain",
       "paint",
@@ -5804,10 +6091,12 @@
       "pipe",
       "pipette",
       "pita",
+      "pitta",
       "tamp",
       "tape",
       "teepee",
       "temp",
+      "tempi",
       "tempt",
       "tenpin",
       "tepee",
@@ -5817,7 +6106,7 @@
   },
   {
     "id": "917f432c",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-05-17",
     "center_letter": "e",
     "outside_letters": [
@@ -5833,13 +6122,15 @@
       "avalanche"
     ],
     "bingo_possible": true,
-    "total_score": 218,
-    "total_words": 51,
+    "total_score": 230,
+    "total_words": 54,
     "valid_words": [
       "ache",
       "acne",
+      "anneal",
       "avalanche",
       "cache",
+      "caeca",
       "calve",
       "cancel",
       "cane",
@@ -5852,6 +6143,7 @@
       "cleave",
       "clench",
       "each",
+      "elan",
       "eleven",
       "enclave",
       "enhance",
@@ -5891,7 +6183,7 @@
   },
   {
     "id": "e4872165",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-05-18",
     "center_letter": "m",
     "outside_letters": [
@@ -5909,8 +6201,8 @@
       "camping"
     ],
     "bingo_possible": true,
-    "total_score": 242,
-    "total_words": 37,
+    "total_score": 261,
+    "total_words": 41,
     "valid_words": [
       "aiming",
       "camp",
@@ -5921,6 +6213,7 @@
       "gamma",
       "imaging",
       "imagining",
+      "imam",
       "impinging",
       "magic",
       "magician",
@@ -5931,6 +6224,7 @@
       "mama",
       "mamma",
       "managing",
+      "manana",
       "manga",
       "mania",
       "maniac",
@@ -5942,7 +6236,9 @@
       "mimic",
       "miming",
       "mincing",
+      "minging",
       "mini",
+      "minim",
       "minima",
       "mining",
       "naming",
@@ -5953,7 +6249,7 @@
   },
   {
     "id": "31342ae5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-19",
     "center_letter": "u",
     "outside_letters": [
@@ -5969,9 +6265,10 @@
       "puncture"
     ],
     "bingo_possible": true,
-    "total_score": 307,
-    "total_words": 58,
+    "total_score": 312,
+    "total_words": 59,
     "valid_words": [
+      "cruet",
       "cunt",
       "cure",
       "current",
@@ -6034,7 +6331,7 @@
   },
   {
     "id": "02528a02",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-05-20",
     "center_letter": "e",
     "outside_letters": [
@@ -6050,8 +6347,8 @@
       "felicity"
     ],
     "bingo_possible": true,
-    "total_score": 148,
-    "total_words": 38,
+    "total_score": 161,
+    "total_words": 41,
     "valid_words": [
       "cell",
       "cite",
@@ -6060,6 +6357,7 @@
       "cycle",
       "eclectic",
       "effect",
+      "effete",
       "elect",
       "elicit",
       "elite",
@@ -6070,6 +6368,7 @@
       "fell",
       "felt",
       "fete",
+      "fief",
       "fife",
       "file",
       "filet",
@@ -6080,6 +6379,7 @@
       "fleet",
       "icicle",
       "left",
+      "leftie",
       "lefty",
       "lice",
       "life",
@@ -6095,7 +6395,7 @@
   },
   {
     "id": "ad81dcaa",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-05-21",
     "center_letter": "i",
     "outside_letters": [
@@ -6111,8 +6411,8 @@
       "calamity"
     ],
     "bingo_possible": false,
-    "total_score": 198,
-    "total_words": 37,
+    "total_score": 205,
+    "total_words": 40,
     "valid_words": [
       "acacia",
       "acclaim",
@@ -6131,8 +6431,11 @@
       "icily",
       "illicit",
       "illicitly",
+      "imam",
       "italic",
+      "laity",
       "lilac",
+      "lilt",
       "lily",
       "limit",
       "mail",
@@ -6155,7 +6458,7 @@
   },
   {
     "id": "56fae418",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-22",
     "center_letter": "w",
     "outside_letters": [
@@ -6172,8 +6475,8 @@
       "unrewarded"
     ],
     "bingo_possible": true,
-    "total_score": 272,
-    "total_words": 53,
+    "total_score": 279,
+    "total_words": 55,
     "valid_words": [
       "anew",
       "award",
@@ -6226,13 +6529,15 @@
       "wedded",
       "weed",
       "weeded",
+      "wend",
+      "wended",
       "were",
       "wren"
     ]
   },
   {
     "id": "942ccfd3",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-23",
     "center_letter": "a",
     "outside_letters": [
@@ -6248,8 +6553,8 @@
       "traumatic"
     ],
     "bingo_possible": false,
-    "total_score": 140,
-    "total_words": 32,
+    "total_score": 152,
+    "total_words": 36,
     "valid_words": [
       "acacia",
       "arctic",
@@ -6263,11 +6568,15 @@
       "carat",
       "cart",
       "cataract",
+      "circa",
+      "craic",
       "cram",
+      "imam",
       "maim",
       "mama",
       "mamma",
       "mart",
+      "matt",
       "mica",
       "tacit",
       "tact",
@@ -6287,7 +6596,7 @@
   },
   {
     "id": "53771c09",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-24",
     "center_letter": "i",
     "outside_letters": [
@@ -6305,10 +6614,11 @@
       "pathetic"
     ],
     "bingo_possible": true,
-    "total_score": 225,
-    "total_words": 37,
+    "total_score": 241,
+    "total_words": 40,
     "valid_words": [
       "acacia",
+      "aitch",
       "apathetic",
       "apiece",
       "appetite",
@@ -6340,8 +6650,10 @@
       "pita",
       "pitch",
       "pith",
+      "pitta",
       "tacit",
       "tactic",
+      "tattie",
       "techie",
       "titch",
       "tithe"
@@ -6349,7 +6661,7 @@
   },
   {
     "id": "4db08166",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-05-25",
     "center_letter": "w",
     "outside_letters": [
@@ -6423,7 +6735,7 @@
   },
   {
     "id": "1660f3a9",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-05-26",
     "center_letter": "y",
     "outside_letters": [
@@ -6439,11 +6751,12 @@
       "flattery"
     ],
     "bingo_possible": true,
-    "total_score": 270,
-    "total_words": 51,
+    "total_score": 287,
+    "total_words": 55,
     "valid_words": [
       "affray",
       "alertly",
+      "allay",
       "alley",
       "ally",
       "array",
@@ -6484,12 +6797,15 @@
       "taffy",
       "tally",
       "tarry",
+      "tartly",
+      "tarty",
       "tatty",
       "teary",
       "telly",
       "terry",
       "tray",
       "treaty",
+      "tyre",
       "year",
       "yearly",
       "yell"
@@ -6497,7 +6813,7 @@
   },
   {
     "id": "e877cffd",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-05-27",
     "center_letter": "c",
     "outside_letters": [
@@ -6516,9 +6832,10 @@
       "cornering"
     ],
     "bingo_possible": true,
-    "total_score": 314,
-    "total_words": 48,
+    "total_score": 360,
+    "total_words": 57,
     "valid_words": [
+      "ciggie",
       "cocoon",
       "cocooning",
       "coerce",
@@ -6526,6 +6843,7 @@
       "coercion",
       "coin",
       "coining",
+      "coir",
       "concern",
       "concerning",
       "concierge",
@@ -6547,8 +6865,11 @@
       "cringe",
       "cringing",
       "croc",
+      "crone",
       "croon",
+      "crooner",
       "crooning",
+      "crore",
       "encore",
       "generic",
       "greengrocer",
@@ -6560,18 +6881,22 @@
       "innocence",
       "ionic",
       "ironic",
+      "neocon",
       "nice",
       "nicer",
       "niece",
       "nonce",
       "once",
+      "recce",
       "recon",
-      "rice"
+      "rice",
+      "ricin",
+      "rococo"
     ]
   },
   {
     "id": "c9167f0c",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-05-28",
     "center_letter": "e",
     "outside_letters": [
@@ -6587,8 +6912,8 @@
       "lifelong"
     ],
     "bingo_possible": false,
-    "total_score": 206,
-    "total_words": 47,
+    "total_score": 214,
+    "total_words": 49,
     "valid_words": [
       "effing",
       "egging",
@@ -6604,6 +6929,7 @@
       "felling",
       "felon",
       "fennel",
+      "fief",
       "fife",
       "file",
       "fine",
@@ -6613,6 +6939,7 @@
       "gelling",
       "gene",
       "genie",
+      "genning",
       "giggle",
       "glee",
       "glen",
@@ -6641,7 +6968,7 @@
   },
   {
     "id": "463dfb37",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-05-29",
     "center_letter": "c",
     "outside_letters": [
@@ -6657,8 +6984,8 @@
       "principle"
     ],
     "bingo_possible": true,
-    "total_score": 238,
-    "total_words": 39,
+    "total_score": 260,
+    "total_words": 43,
     "valid_words": [
       "cell",
       "circle",
@@ -6666,6 +6993,7 @@
       "clinic",
       "clip",
       "clipper",
+      "creel",
       "creep",
       "creeper",
       "creepier",
@@ -6679,6 +7007,7 @@
       "incline",
       "lenience",
       "lice",
+      "licence",
       "nice",
       "nicer",
       "niece",
@@ -6694,16 +7023,18 @@
       "pricier",
       "prince",
       "principle",
+      "recce",
       "recipe",
       "recline",
       "recliner",
       "relic",
-      "rice"
+      "rice",
+      "ricin"
     ]
   },
   {
     "id": "e5298a8f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-05-30",
     "center_letter": "e",
     "outside_letters": [
@@ -6719,16 +7050,18 @@
       "nickname"
     ],
     "bingo_possible": true,
-    "total_score": 145,
-    "total_words": 39,
+    "total_score": 159,
+    "total_words": 43,
     "valid_words": [
       "acme",
       "acne",
       "amen",
+      "anaemia",
       "anaemic",
       "anemia",
       "anemic",
       "anime",
+      "caeca",
       "cake",
       "came",
       "cane",
@@ -6740,6 +7073,7 @@
       "imminence",
       "inane",
       "keen",
+      "kike",
       "knee",
       "mace",
       "make",
@@ -6751,6 +7085,7 @@
       "meme",
       "menace",
       "mice",
+      "mien",
       "mike",
       "mime",
       "mince",
@@ -6765,7 +7100,7 @@
   },
   {
     "id": "a178d217",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-05-31",
     "center_letter": "o",
     "outside_letters": [
@@ -6782,13 +7117,14 @@
       "reproach"
     ],
     "bingo_possible": true,
-    "total_score": 227,
-    "total_words": 50,
+    "total_score": 250,
+    "total_words": 55,
     "valid_words": [
       "achoo",
       "approach",
       "cacao",
       "cheapo",
+      "choc",
       "chop",
       "chopper",
       "chore",
@@ -6797,6 +7133,7 @@
       "coerce",
       "cohere",
       "coop",
+      "cooper",
       "cope",
       "copper",
       "copra",
@@ -6804,6 +7141,7 @@
       "corpora",
       "croc",
       "crop",
+      "crore",
       "echo",
       "epoch",
       "error",
@@ -6813,6 +7151,7 @@
       "hope",
       "hopper",
       "horror",
+      "ocher",
       "ochre",
       "opera",
       "orca",
@@ -6834,12 +7173,13 @@
       "reproach",
       "roach",
       "roar",
+      "rococo",
       "rope"
     ]
   },
   {
     "id": "b96518e9",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-06-01",
     "center_letter": "o",
     "outside_letters": [
@@ -6855,9 +7195,10 @@
       "allowance"
     ],
     "bingo_possible": false,
-    "total_score": 166,
-    "total_words": 42,
+    "total_score": 174,
+    "total_words": 45,
     "valid_words": [
+      "aeon",
       "allow",
       "allowance",
       "aloe",
@@ -6888,8 +7229,10 @@
       "local",
       "locale",
       "loco",
+      "loll",
       "lone",
       "loon",
+      "neocon",
       "neon",
       "nonce",
       "none",
@@ -6904,7 +7247,7 @@
   },
   {
     "id": "fc8129b9",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-06-02",
     "center_letter": "i",
     "outside_letters": [
@@ -6920,8 +7263,8 @@
       "carnival"
     ],
     "bingo_possible": false,
-    "total_score": 184,
-    "total_words": 37,
+    "total_score": 206,
+    "total_words": 43,
     "valid_words": [
       "acacia",
       "anvil",
@@ -6933,24 +7276,29 @@
       "carnival",
       "caviar",
       "cavil",
+      "circa",
       "civic",
       "civil",
       "civilian",
       "clinic",
       "clinical",
       "clinician",
+      "craic",
       "crania",
       "cranial",
       "lain",
       "lair",
       "liar",
       "lilac",
+      "lira",
       "nail",
       "niacin",
       "nirvana",
       "racial",
       "rail",
       "rain",
+      "rani",
+      "ricin",
       "rival",
       "vain",
       "vanilla",
@@ -6958,13 +7306,14 @@
       "vicar",
       "villa",
       "villain",
+      "villi",
       "viral",
       "viva"
     ]
   },
   {
     "id": "bbf38877",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-06-03",
     "center_letter": "o",
     "outside_letters": [
@@ -6980,8 +7329,8 @@
       "countdown"
     ],
     "bingo_possible": true,
-    "total_score": 149,
-    "total_words": 31,
+    "total_score": 151,
+    "total_words": 33,
     "valid_words": [
       "coconut",
       "cocoon",
@@ -6989,6 +7338,7 @@
       "condo",
       "conduct",
       "coon",
+      "coot",
       "cotton",
       "cottonwood",
       "count",
@@ -7001,6 +7351,7 @@
       "dunno",
       "noon",
       "noun",
+      "nowt",
       "onto",
       "outdo",
       "toot",
@@ -7018,7 +7369,7 @@
   },
   {
     "id": "3c25b7c3",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-06-04",
     "center_letter": "v",
     "outside_letters": [
@@ -7037,8 +7388,8 @@
       "vintage"
     ],
     "bingo_possible": true,
-    "total_score": 337,
-    "total_words": 48,
+    "total_score": 352,
+    "total_words": 50,
     "valid_words": [
       "agave",
       "attentive",
@@ -7068,6 +7419,7 @@
       "navigating",
       "negative",
       "tentative",
+      "titivate",
       "titivating",
       "vagina",
       "vain",
@@ -7086,13 +7438,14 @@
       "vine",
       "vintage",
       "vita",
+      "vitiate",
       "vitiating",
       "viva"
     ]
   },
   {
     "id": "cf319d52",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-06-05",
     "center_letter": "i",
     "outside_letters": [
@@ -7109,8 +7462,8 @@
       "partially"
     ],
     "bingo_possible": false,
-    "total_score": 157,
-    "total_words": 35,
+    "total_score": 191,
+    "total_words": 43,
     "valid_words": [
       "airily",
       "airplay",
@@ -7119,11 +7472,18 @@
       "aria",
       "atria",
       "lair",
+      "lairy",
+      "laity",
+      "lariat",
       "liar",
+      "lilt",
       "lily",
+      "lippy",
+      "lira",
       "pail",
       "pair",
       "palatial",
+      "papyri",
       "parity",
       "partial",
       "partiality",
@@ -7131,6 +7491,7 @@
       "pill",
       "pillar",
       "pita",
+      "pitta",
       "pity",
       "plait",
       "rail",
@@ -7151,7 +7512,7 @@
   },
   {
     "id": "a85c5788",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-06-06",
     "center_letter": "i",
     "outside_letters": [
@@ -7167,8 +7528,8 @@
       "delicacy"
     ],
     "bingo_possible": true,
-    "total_score": 272,
-    "total_words": 53,
+    "total_score": 297,
+    "total_words": 58,
     "valid_words": [
       "acacia",
       "acid",
@@ -7193,6 +7554,7 @@
       "delicacy",
       "dial",
       "dialed",
+      "dialled",
       "dice",
       "diced",
       "dicey",
@@ -7202,6 +7564,8 @@
       "died",
       "dill",
       "eddied",
+      "elide",
+      "elided",
       "eyelid",
       "iced",
       "icicle",
@@ -7215,6 +7579,8 @@
       "idyll",
       "idyllic",
       "idyllically",
+      "ilea",
+      "laddie",
       "laid",
       "lice",
       "lidded",
@@ -7227,7 +7593,7 @@
   },
   {
     "id": "5ec2c806",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-06-07",
     "center_letter": "o",
     "outside_letters": [
@@ -7243,8 +7609,8 @@
       "formally"
     ],
     "bingo_possible": true,
-    "total_score": 223,
-    "total_words": 53,
+    "total_score": 224,
+    "total_words": 54,
     "valid_words": [
       "alloy",
       "aloo",
@@ -7272,6 +7638,7 @@
       "loaf",
       "loam",
       "loamy",
+      "loll",
       "lolly",
       "loom",
       "lorry",
@@ -7303,7 +7670,7 @@
   },
   {
     "id": "0c6d3233",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-06-08",
     "center_letter": "o",
     "outside_letters": [
@@ -7320,13 +7687,14 @@
       "endeavored"
     ],
     "bingo_possible": true,
-    "total_score": 269,
-    "total_words": 57,
+    "total_score": 280,
+    "total_words": 60,
     "valid_words": [
       "adore",
       "adored",
       "adorn",
       "adorned",
+      "aeon",
       "anode",
       "anon",
       "ardor",
@@ -7354,6 +7722,7 @@
       "none",
       "noon",
       "nova",
+      "novae",
       "odder",
       "odor",
       "order",
@@ -7375,6 +7744,7 @@
       "roared",
       "rode",
       "rodeo",
+      "rondo",
       "rove",
       "roved",
       "rover",
@@ -7384,7 +7754,7 @@
   },
   {
     "id": "b4207d2a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-06-09",
     "center_letter": "i",
     "outside_letters": [
@@ -7401,8 +7771,8 @@
       "memorial"
     ],
     "bingo_possible": true,
-    "total_score": 190,
-    "total_words": 38,
+    "total_score": 209,
+    "total_words": 45,
     "valid_words": [
       "aerial",
       "aerie",
@@ -7415,16 +7785,21 @@
       "eerier",
       "email",
       "emir",
+      "ilea",
+      "imam",
       "immemorial",
       "immoral",
       "lair",
       "liar",
       "lime",
       "limo",
+      "lira",
+      "lire",
       "mail",
       "mailer",
       "maim",
       "malaria",
+      "malarial",
       "memoir",
       "memorial",
       "merrier",
@@ -7438,7 +7813,9 @@
       "oilier",
       "oriole",
       "rail",
+      "rellie",
       "rile",
+      "rime",
       "roil",
       "roomie",
       "roomier"
@@ -7446,7 +7823,7 @@
   },
   {
     "id": "679f4567",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-06-10",
     "center_letter": "p",
     "outside_letters": [
@@ -7462,11 +7839,12 @@
       "alphabet"
     ],
     "bingo_possible": true,
-    "total_score": 212,
-    "total_words": 47,
+    "total_score": 217,
+    "total_words": 48,
     "valid_words": [
       "alpha",
       "alphabet",
+      "appal",
       "appall",
       "appeal",
       "apple",
@@ -7516,7 +7894,7 @@
   },
   {
     "id": "e70b2a4e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-06-11",
     "center_letter": "p",
     "outside_letters": [
@@ -7533,10 +7911,11 @@
       "projector"
     ],
     "bingo_possible": false,
-    "total_score": 237,
-    "total_words": 48,
+    "total_score": 249,
+    "total_words": 50,
     "valid_words": [
       "coop",
+      "cooper",
       "cope",
       "copper",
       "copter",
@@ -7580,6 +7959,7 @@
       "tepee",
       "topee",
       "topper",
+      "torpor",
       "treetop",
       "troop",
       "trooper",
@@ -7588,7 +7968,7 @@
   },
   {
     "id": "67ca0115",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-06-12",
     "center_letter": "i",
     "outside_letters": [
@@ -7604,8 +7984,8 @@
       "firewood"
     ],
     "bingo_possible": false,
-    "total_score": 273,
-    "total_words": 52,
+    "total_score": 279,
+    "total_words": 54,
     "valid_words": [
       "defied",
       "deified",
@@ -7617,6 +7997,7 @@
       "differed",
       "diode",
       "dire",
+      "direr",
       "dowdier",
       "dried",
       "drier",
@@ -7625,6 +8006,7 @@
       "eerie",
       "eerier",
       "ferried",
+      "fief",
       "fierier",
       "fife",
       "fiord",
@@ -7663,7 +8045,7 @@
   },
   {
     "id": "042a5708",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-06-13",
     "center_letter": "a",
     "outside_letters": [
@@ -7679,20 +8061,22 @@
       "punctual"
     ],
     "bingo_possible": true,
-    "total_score": 148,
-    "total_words": 39,
+    "total_score": 161,
+    "total_words": 42,
     "valid_words": [
       "actual",
       "alpaca",
       "anal",
       "annual",
       "annul",
+      "appal",
       "appall",
       "aunt",
       "call",
       "canal",
       "cancan",
       "cant",
+      "cantata",
       "catapult",
       "catcall",
       "catnap",
@@ -7703,6 +8087,7 @@
       "luau",
       "naan",
       "nana",
+      "paan",
       "pact",
       "palatal",
       "pall",
@@ -7725,7 +8110,7 @@
   },
   {
     "id": "c503e842",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-06-14",
     "center_letter": "i",
     "outside_letters": [
@@ -7740,9 +8125,9 @@
     "pangrams": [
       "dramatic"
     ],
-    "bingo_possible": false,
-    "total_score": 170,
-    "total_words": 36,
+    "bingo_possible": true,
+    "total_score": 196,
+    "total_words": 40,
     "valid_words": [
       "acacia",
       "acid",
@@ -7759,12 +8144,16 @@
       "cacti",
       "cardiac",
       "cicada",
+      "circa",
+      "craic",
       "critic",
       "dammit",
       "diacritic",
+      "dicta",
       "didactic",
       "dirt",
       "dramatic",
+      "imam",
       "macadamia",
       "maid",
       "maim",
@@ -7784,7 +8173,7 @@
   },
   {
     "id": "bb8470fe",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-06-15",
     "center_letter": "e",
     "outside_letters": [
@@ -7800,8 +8189,8 @@
       "extremely"
     ],
     "bingo_possible": false,
-    "total_score": 161,
-    "total_words": 37,
+    "total_score": 168,
+    "total_words": 40,
     "valid_words": [
       "emery",
       "exert",
@@ -7820,7 +8209,9 @@
       "mere",
       "merely",
       "merry",
+      "mete",
       "meter",
+      "metre",
       "mettle",
       "myrtle",
       "reel",
@@ -7839,12 +8230,13 @@
       "terry",
       "text",
       "tree",
+      "tyre",
       "yell"
     ]
   },
   {
     "id": "e43eba49",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-06-16",
     "center_letter": "y",
     "outside_letters": [
@@ -7860,8 +8252,8 @@
       "attorney"
     ],
     "bingo_possible": true,
-    "total_score": 201,
-    "total_words": 37,
+    "total_score": 213,
+    "total_words": 41,
     "valid_words": [
       "annoy",
       "anyone",
@@ -7886,16 +8278,20 @@
       "rotary",
       "tannery",
       "tarry",
+      "tarty",
       "tatty",
       "teary",
       "teeny",
       "terry",
       "tony",
+      "totty",
       "tranny",
       "tray",
       "treaty",
       "tyranny",
       "tyrant",
+      "tyre",
+      "tyro",
       "yarn",
       "year",
       "yearn",
@@ -7904,7 +8300,7 @@
   },
   {
     "id": "f3c8763e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-06-17",
     "center_letter": "n",
     "outside_letters": [
@@ -7921,8 +8317,8 @@
       "quantity"
     ],
     "bingo_possible": true,
-    "total_score": 177,
-    "total_words": 33,
+    "total_score": 182,
+    "total_words": 34,
     "valid_words": [
       "annuity",
       "anti",
@@ -7933,6 +8329,7 @@
       "aunty",
       "inanity",
       "iniquity",
+      "innit",
       "intuit",
       "naan",
       "nana",
@@ -7961,7 +8358,7 @@
   },
   {
     "id": "352d87d7",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-06-18",
     "center_letter": "n",
     "outside_letters": [
@@ -7977,8 +8374,8 @@
       "fragrance"
     ],
     "bingo_possible": true,
-    "total_score": 243,
-    "total_words": 47,
+    "total_score": 248,
+    "total_words": 48,
     "valid_words": [
       "acne",
       "anger",
@@ -8020,6 +8417,7 @@
       "narc",
       "near",
       "nearer",
+      "ranee",
       "rang",
       "range",
       "ranger",
@@ -8031,7 +8429,7 @@
   },
   {
     "id": "1a2e664c",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-06-19",
     "center_letter": "a",
     "outside_letters": [
@@ -8047,11 +8445,12 @@
       "brutally"
     ],
     "bingo_possible": false,
-    "total_score": 143,
-    "total_words": 38,
+    "total_score": 164,
+    "total_words": 42,
     "valid_words": [
       "ably",
       "abut",
+      "allay",
       "ally",
       "altar",
       "array",
@@ -8076,12 +8475,15 @@
       "ratty",
       "rural",
       "tabby",
+      "tabla",
       "tabular",
       "tall",
       "tally",
       "tarry",
       "tart",
       "tartar",
+      "tartly",
+      "tarty",
       "tatty",
       "taut",
       "tautly",
@@ -8092,7 +8494,7 @@
   },
   {
     "id": "e8ebd518",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-06-20",
     "center_letter": "n",
     "outside_letters": [
@@ -8109,11 +8511,12 @@
       "freelancer"
     ],
     "bingo_possible": true,
-    "total_score": 237,
-    "total_words": 45,
+    "total_score": 249,
+    "total_words": 48,
     "valid_words": [
       "acne",
       "anal",
+      "anneal",
       "arcane",
       "arena",
       "canal",
@@ -8130,6 +8533,7 @@
       "crane",
       "earn",
       "earner",
+      "elan",
       "fallen",
       "fanfare",
       "fence",
@@ -8154,6 +8558,7 @@
       "narc",
       "near",
       "nearer",
+      "ranee",
       "reference",
       "renal",
       "reran"
@@ -8161,7 +8566,7 @@
   },
   {
     "id": "9774d562",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-06-21",
     "center_letter": "l",
     "outside_letters": [
@@ -8178,8 +8583,8 @@
       "electron"
     ],
     "bingo_possible": true,
-    "total_score": 257,
-    "total_words": 50,
+    "total_score": 268,
+    "total_words": 53,
     "valid_words": [
       "cell",
       "cello",
@@ -8196,16 +8601,19 @@
       "controller",
       "cool",
       "cooler",
+      "creel",
       "creole",
       "elect",
       "elector",
       "electron",
+      "enrol",
       "enroll",
       "lectern",
       "leer",
       "lent",
       "letter",
       "loco",
+      "loll",
       "lone",
       "loner",
       "loon",
@@ -8235,7 +8643,7 @@
   },
   {
     "id": "9d2bae8b",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-06-22",
     "center_letter": "l",
     "outside_letters": [
@@ -8252,17 +8660,20 @@
       "relaxant"
     ],
     "bingo_possible": false,
-    "total_score": 271,
-    "total_words": 52,
+    "total_score": 292,
+    "total_words": 56,
     "valid_words": [
       "alert",
       "altar",
       "alter",
       "alternate",
       "anal",
+      "anneal",
+      "antenatal",
       "antler",
       "axle",
       "earl",
+      "elan",
       "eternal",
       "exalt",
       "external",
@@ -8277,6 +8688,7 @@
       "latter",
       "lean",
       "leaner",
+      "leant",
       "learn",
       "learner",
       "learnt",
@@ -8311,7 +8723,7 @@
   },
   {
     "id": "54bbae43",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-06-23",
     "center_letter": "b",
     "outside_letters": [
@@ -8377,7 +8789,7 @@
   },
   {
     "id": "308ed7d8",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-06-24",
     "center_letter": "u",
     "outside_letters": [
@@ -8393,18 +8805,20 @@
       "pronounce"
     ],
     "bingo_possible": true,
-    "total_score": 201,
-    "total_words": 36,
+    "total_score": 214,
+    "total_words": 39,
     "valid_words": [
       "concur",
       "concurrence",
       "coup",
       "coupe",
       "coupon",
+      "croup",
       "cure",
       "ecru",
       "euro",
       "neuron",
+      "neurone",
       "noun",
       "occur",
       "occurrence",
@@ -8426,6 +8840,7 @@
       "recurrence",
       "renounce",
       "rerun",
+      "roue",
       "rune",
       "runner",
       "rupee",
@@ -8436,7 +8851,7 @@
   },
   {
     "id": "3319fb65",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-06-25",
     "center_letter": "v",
     "outside_letters": [
@@ -8456,8 +8871,8 @@
       "reinvention"
     ],
     "bingo_possible": true,
-    "total_score": 335,
-    "total_words": 48,
+    "total_score": 340,
+    "total_words": 49,
     "valid_words": [
       "even",
       "event",
@@ -8490,6 +8905,7 @@
       "reverie",
       "revert",
       "revive",
+      "riven",
       "river",
       "rivet",
       "rove",
@@ -8511,7 +8927,7 @@
   },
   {
     "id": "be2502e5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-06-26",
     "center_letter": "u",
     "outside_letters": [
@@ -8527,12 +8943,14 @@
       "guarantee"
     ],
     "bingo_possible": false,
-    "total_score": 267,
-    "total_words": 53,
+    "total_score": 280,
+    "total_words": 57,
     "valid_words": [
+      "ague",
       "argue",
       "attenuate",
       "auger",
+      "augur",
       "aunt",
       "aura",
       "auteur",
@@ -8565,10 +8983,12 @@
       "taunt",
       "taut",
       "tauten",
+      "tauter",
       "tenure",
       "truant",
       "true",
       "truer",
+      "trug",
       "tuna",
       "tune",
       "tuner",
@@ -8587,7 +9007,7 @@
   },
   {
     "id": "0d3b9f8f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-06-27",
     "center_letter": "i",
     "outside_letters": [
@@ -8604,8 +9024,8 @@
       "glacier"
     ],
     "bingo_possible": true,
-    "total_score": 266,
-    "total_words": 46,
+    "total_score": 291,
+    "total_words": 53,
     "valid_words": [
       "acacia",
       "aerial",
@@ -8619,9 +9039,12 @@
       "carrier",
       "celeriac",
       "cigar",
+      "ciggie",
+      "circa",
       "circle",
       "cleric",
       "clerical",
+      "craic",
       "crier",
       "earlier",
       "eclair",
@@ -8639,6 +9062,7 @@
       "grille",
       "icicle",
       "icier",
+      "ilea",
       "illegal",
       "lacier",
       "lair",
@@ -8646,18 +9070,21 @@
       "lice",
       "liege",
       "lilac",
+      "lira",
+      "lire",
       "racial",
       "racier",
       "rail",
       "regalia",
       "relic",
+      "rellie",
       "rice",
       "rile"
     ]
   },
   {
     "id": "338e89ed",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-06-28",
     "center_letter": "e",
     "outside_letters": [
@@ -8673,8 +9100,8 @@
       "formerly"
     ],
     "bingo_possible": true,
-    "total_score": 195,
-    "total_words": 47,
+    "total_score": 201,
+    "total_words": 48,
     "valid_words": [
       "emery",
       "error",
@@ -8721,13 +9148,14 @@
       "roller",
       "romeo",
       "roofer",
+      "roomer",
       "yell",
       "yore"
     ]
   },
   {
     "id": "1234238a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:30",
     "live_date": "2026-06-29",
     "center_letter": "m",
     "outside_letters": [
@@ -8746,8 +9174,8 @@
       "contempt"
     ],
     "bingo_possible": false,
-    "total_score": 238,
-    "total_words": 42,
+    "total_score": 239,
+    "total_words": 43,
     "valid_words": [
       "cement",
       "come",
@@ -8771,6 +9199,7 @@
       "meme",
       "memento",
       "memo",
+      "mete",
       "moment",
       "mono",
       "monotone",
@@ -8795,7 +9224,7 @@
   },
   {
     "id": "b7e9b721",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-06-30",
     "center_letter": "y",
     "outside_letters": [
@@ -8812,8 +9241,8 @@
       "retrying"
     ],
     "bingo_possible": true,
-    "total_score": 195,
-    "total_words": 29,
+    "total_score": 201,
+    "total_words": 31,
     "valid_words": [
       "energy",
       "entirety",
@@ -8822,6 +9251,7 @@
       "eternity",
       "eyeing",
       "eying",
+      "eyrie",
       "gentry",
       "gingery",
       "greenery",
@@ -8843,12 +9273,13 @@
       "trinity",
       "trying",
       "tying",
+      "tyre",
       "yeti"
     ]
   },
   {
     "id": "98501d62",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:30",
     "live_date": "2026-07-01",
     "center_letter": "v",
     "outside_letters": [
@@ -8865,8 +9296,8 @@
       "medieval"
     ],
     "bingo_possible": false,
-    "total_score": 207,
-    "total_words": 43,
+    "total_score": 212,
+    "total_words": 44,
     "valid_words": [
       "alive",
       "avail",
@@ -8909,13 +9340,14 @@
       "vied",
       "vile",
       "villa",
+      "villi",
       "viva",
       "vivid"
     ]
   },
   {
     "id": "826695c1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-07-02",
     "center_letter": "i",
     "outside_letters": [
@@ -8930,9 +9362,9 @@
     "pangrams": [
       "dictator"
     ],
-    "bingo_possible": false,
-    "total_score": 213,
-    "total_words": 41,
+    "bingo_possible": true,
+    "total_score": 260,
+    "total_words": 49,
     "valid_words": [
       "acacia",
       "acid",
@@ -8940,6 +9372,7 @@
       "acrid",
       "addict",
       "adroit",
+      "aortic",
       "arctic",
       "aria",
       "arid",
@@ -8948,10 +9381,16 @@
       "cacti",
       "cardiac",
       "cardio",
+      "ciao",
       "cicada",
+      "circa",
+      "coir",
       "corridor",
+      "craic",
       "critic",
+      "dacoit",
       "diacritic",
+      "dicta",
       "dictator",
       "didactic",
       "dirt",
@@ -8959,6 +9398,7 @@
       "idiot",
       "idiotic",
       "iota",
+      "oratorio",
       "radiator",
       "radii",
       "radio",
@@ -8979,7 +9419,7 @@
   },
   {
     "id": "cd940872",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-07-03",
     "center_letter": "m",
     "outside_letters": [
@@ -8995,8 +9435,8 @@
       "geometry"
     ],
     "bingo_possible": false,
-    "total_score": 151,
-    "total_words": 36,
+    "total_score": 163,
+    "total_words": 39,
     "valid_words": [
       "emerge",
       "emery",
@@ -9013,8 +9453,10 @@
       "merge",
       "merger",
       "merry",
+      "mete",
       "meteor",
       "meter",
+      "metre",
       "metro",
       "moggy",
       "mommy",
@@ -9028,6 +9470,7 @@
       "remoter",
       "romeo",
       "room",
+      "roomer",
       "roomy",
       "teem",
       "term",
@@ -9038,7 +9481,7 @@
   },
   {
     "id": "5960f9ed",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-07-04",
     "center_letter": "k",
     "outside_letters": [
@@ -9094,7 +9537,7 @@
   },
   {
     "id": "fbc32dcf",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-07-05",
     "center_letter": "b",
     "outside_letters": [
@@ -9112,8 +9555,8 @@
       "terribly"
     ],
     "bingo_possible": false,
-    "total_score": 236,
-    "total_words": 42,
+    "total_score": 250,
+    "total_words": 45,
     "valid_words": [
       "beer",
       "beery",
@@ -9126,11 +9569,13 @@
       "belly",
       "belt",
       "beret",
+      "beriberi",
       "berry",
       "beryl",
       "betel",
       "better",
       "bible",
+      "bier",
       "bilberry",
       "bile",
       "bill",
@@ -9143,6 +9588,7 @@
       "bribe",
       "bribery",
       "brier",
+      "brill",
       "brittle",
       "byre",
       "byte",
@@ -9161,7 +9607,7 @@
   },
   {
     "id": "25ac4ec5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-07-06",
     "center_letter": "u",
     "outside_letters": [
@@ -9178,8 +9624,8 @@
       "perpetuated"
     ],
     "bingo_possible": true,
-    "total_score": 326,
-    "total_words": 59,
+    "total_score": 332,
+    "total_words": 60,
     "valid_words": [
       "aperture",
       "aura",
@@ -9225,6 +9671,7 @@
       "rutted",
       "taupe",
       "taut",
+      "tauter",
       "true",
       "truer",
       "turd",
@@ -9244,7 +9691,7 @@
   },
   {
     "id": "7159dbf5",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-07-07",
     "center_letter": "v",
     "outside_letters": [
@@ -9261,8 +9708,8 @@
       "ventilate"
     ],
     "bingo_possible": true,
-    "total_score": 308,
-    "total_words": 57,
+    "total_score": 328,
+    "total_words": 60,
     "valid_words": [
       "alive",
       "alleviate",
@@ -9296,6 +9743,7 @@
       "nave",
       "navel",
       "tentative",
+      "titivate",
       "vain",
       "vale",
       "valentine",
@@ -9317,15 +9765,17 @@
       "vile",
       "villa",
       "villain",
+      "villi",
       "vine",
       "vita",
       "vital",
+      "vitiate",
       "viva"
     ]
   },
   {
     "id": "14ede414",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:29",
     "live_date": "2026-07-08",
     "center_letter": "a",
     "outside_letters": [
@@ -9341,8 +9791,8 @@
       "cocktail"
     ],
     "bingo_possible": false,
-    "total_score": 187,
-    "total_words": 43,
+    "total_score": 195,
+    "total_words": 45,
     "valid_words": [
       "acacia",
       "aioli",
@@ -9358,6 +9808,7 @@
       "calico",
       "call",
       "catcall",
+      "ciao",
       "clack",
       "cloak",
       "coal",
@@ -9386,12 +9837,13 @@
       "tall",
       "tattoo",
       "tikka",
+      "toccata",
       "total"
     ]
   },
   {
     "id": "00da5090",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-07-09",
     "center_letter": "e",
     "outside_letters": [
@@ -9459,7 +9911,7 @@
   },
   {
     "id": "3ed6d33f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-07-10",
     "center_letter": "y",
     "outside_letters": [
@@ -9476,8 +9928,8 @@
       "treachery"
     ],
     "bingo_possible": true,
-    "total_score": 213,
-    "total_words": 37,
+    "total_score": 219,
+    "total_words": 39,
     "valid_words": [
       "achy",
       "archery",
@@ -9502,6 +9954,7 @@
       "ratty",
       "retry",
       "tarry",
+      "tarty",
       "tatty",
       "teary",
       "techy",
@@ -9512,6 +9965,7 @@
       "tray",
       "treachery",
       "treaty",
+      "tyre",
       "yacht",
       "yeah",
       "year",
@@ -9520,7 +9974,7 @@
   },
   {
     "id": "97a7e565",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-07-11",
     "center_letter": "h",
     "outside_letters": [
@@ -9605,7 +10059,7 @@
   },
   {
     "id": "4a4f3205",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-07-12",
     "center_letter": "t",
     "outside_letters": [
@@ -9624,8 +10078,8 @@
       "vigilant"
     ],
     "bingo_possible": true,
-    "total_score": 388,
-    "total_words": 52,
+    "total_score": 402,
+    "total_words": 56,
     "valid_words": [
       "agitating",
       "anti",
@@ -9636,6 +10090,7 @@
       "gallivant",
       "gallivanting",
       "giant",
+      "gilt",
       "glint",
       "glinting",
       "gnat",
@@ -9644,8 +10099,11 @@
       "initialing",
       "initialling",
       "initiating",
+      "innit",
       "invigilating",
       "inviting",
+      "lilt",
+      "lilting",
       "lint",
       "litigant",
       "litigating",
@@ -9683,7 +10141,7 @@
   },
   {
     "id": "0a2648bb",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-07-13",
     "center_letter": "p",
     "outside_letters": [
@@ -9699,9 +10157,10 @@
       "promptly"
     ],
     "bingo_possible": false,
-    "total_score": 123,
-    "total_words": 32,
+    "total_score": 136,
+    "total_words": 35,
     "valid_words": [
+      "lollop",
       "lollypop",
       "loop",
       "loopy",
@@ -9731,6 +10190,8 @@
       "prop",
       "rollmop",
       "romp",
+      "ropy",
+      "torpor",
       "trollop",
       "troop",
       "typo"
@@ -9738,7 +10199,7 @@
   },
   {
     "id": "ac3327e4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-07-14",
     "center_letter": "a",
     "outside_letters": [
@@ -9754,21 +10215,25 @@
       "officially"
     ],
     "bingo_possible": false,
-    "total_score": 178,
-    "total_words": 39,
+    "total_score": 190,
+    "total_words": 43,
     "valid_words": [
       "acacia",
       "aioli",
       "alfalfa",
+      "allay",
       "alloy",
       "ally",
       "aloo",
       "aloof",
       "cacao",
+      "caff",
       "calcify",
       "calf",
       "calico",
+      "calif",
       "call",
+      "ciao",
       "clay",
       "coal",
       "cocoa",
@@ -9800,7 +10265,7 @@
   },
   {
     "id": "7bffa36a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-07-15",
     "center_letter": "o",
     "outside_letters": [
@@ -9816,8 +10281,8 @@
       "commandant"
     ],
     "bingo_possible": true,
-    "total_score": 213,
-    "total_words": 49,
+    "total_score": 226,
+    "total_words": 52,
     "valid_words": [
       "ammo",
       "anaconda",
@@ -9827,6 +10292,7 @@
       "cannon",
       "cannot",
       "canon",
+      "canto",
       "canton",
       "coat",
       "cocoa",
@@ -9844,6 +10310,7 @@
       "conman",
       "contact",
       "coon",
+      "coot",
       "cotton",
       "dado",
       "dodo",
@@ -9865,6 +10332,7 @@
       "taco",
       "tattoo",
       "toad",
+      "toccata",
       "tomato",
       "tomcat",
       "toot"
@@ -9872,7 +10340,7 @@
   },
   {
     "id": "8521e466",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-07-16",
     "center_letter": "v",
     "outside_letters": [
@@ -9889,12 +10357,13 @@
       "overboard"
     ],
     "bingo_possible": true,
-    "total_score": 228,
-    "total_words": 38,
+    "total_score": 229,
+    "total_words": 39,
     "valid_words": [
       "above",
       "aboveboard",
       "adverb",
+      "aver",
       "averred",
       "beaver",
       "beavered",
@@ -9934,7 +10403,7 @@
   },
   {
     "id": "aef742b7",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-07-17",
     "center_letter": "e",
     "outside_letters": [
@@ -10000,7 +10469,7 @@
   },
   {
     "id": "f285b1bc",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-07-18",
     "center_letter": "a",
     "outside_letters": [
@@ -10016,20 +10485,27 @@
       "abundance"
     ],
     "bingo_possible": false,
-    "total_score": 192,
-    "total_words": 43,
+    "total_score": 232,
+    "total_words": 51,
     "valid_words": [
+      "abed",
       "abundance",
       "accede",
       "acceded",
       "aced",
       "acne",
       "added",
+      "addenda",
+      "adduce",
+      "adduced",
+      "baaed",
       "baba",
       "babe",
+      "bade",
       "banana",
       "band",
       "bandana",
+      "bandanna",
       "banded",
       "bane",
       "banned",
@@ -10041,6 +10517,7 @@
       "beau",
       "cabana",
       "cadence",
+      "caeca",
       "cancan",
       "cane",
       "caned",
@@ -10066,7 +10543,7 @@
   },
   {
     "id": "b5548c78",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-07-19",
     "center_letter": "o",
     "outside_letters": [
@@ -10083,8 +10560,8 @@
       "programmer"
     ],
     "bingo_possible": true,
-    "total_score": 227,
-    "total_words": 52,
+    "total_score": 239,
+    "total_words": 55,
     "valid_words": [
       "aerogram",
       "aerogramme",
@@ -10099,9 +10576,11 @@
       "ergo",
       "error",
       "goer",
+      "gogga",
       "goop",
       "gore",
       "gorge",
+      "grog",
       "groom",
       "grope",
       "mammogram",
@@ -10137,12 +10616,13 @@
       "romeo",
       "romp",
       "room",
+      "roomer",
       "rope"
     ]
   },
   {
     "id": "1beda847",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-07-20",
     "center_letter": "y",
     "outside_letters": [
@@ -10159,8 +10639,8 @@
       "devilry"
     ],
     "bingo_possible": true,
-    "total_score": 182,
-    "total_words": 34,
+    "total_score": 187,
+    "total_words": 35,
     "valid_words": [
       "delivery",
       "devilry",
@@ -10177,6 +10657,7 @@
       "evilly",
       "eyed",
       "eyelid",
+      "eyrie",
       "idly",
       "idyll",
       "leery",
@@ -10200,7 +10681,7 @@
   },
   {
     "id": "3515bf1f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-07-21",
     "center_letter": "a",
     "outside_letters": [
@@ -10216,8 +10697,8 @@
       "infirmary"
     ],
     "bingo_possible": true,
-    "total_score": 172,
-    "total_words": 42,
+    "total_score": 191,
+    "total_words": 47,
     "valid_words": [
       "afar",
       "affair",
@@ -10237,6 +10718,7 @@
       "fray",
       "friar",
       "friary",
+      "imam",
       "infamy",
       "infirmary",
       "mafia",
@@ -10245,6 +10727,8 @@
       "mama",
       "mamma",
       "mammary",
+      "mammy",
+      "manana",
       "mania",
       "manna",
       "many",
@@ -10256,16 +10740,18 @@
       "nana",
       "nanny",
       "nary",
+      "raffia",
       "rain",
       "rainy",
       "ramify",
+      "rani",
       "riffraff",
       "yarn"
     ]
   },
   {
     "id": "39481f81",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-07-22",
     "center_letter": "n",
     "outside_letters": [
@@ -10281,15 +10767,18 @@
       "elephant"
     ],
     "bingo_possible": true,
-    "total_score": 209,
-    "total_words": 44,
+    "total_score": 232,
+    "total_words": 50,
     "valid_words": [
       "anal",
+      "anneal",
       "ante",
+      "antenatal",
       "antenna",
       "antennae",
       "appellant",
       "eaten",
+      "elan",
       "elephant",
       "entente",
       "ethane",
@@ -10300,13 +10789,16 @@
       "lane",
       "latent",
       "lean",
+      "leant",
       "lent",
       "naan",
       "nana",
       "nape",
       "neat",
       "neaten",
+      "nett",
       "nettle",
+      "paan",
       "paean",
       "panatella",
       "pane",
@@ -10332,7 +10824,7 @@
   },
   {
     "id": "30d21f2f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:30",
     "live_date": "2026-07-23",
     "center_letter": "y",
     "outside_letters": [
@@ -10348,8 +10840,8 @@
       "contrary"
     ],
     "bingo_possible": true,
-    "total_score": 190,
-    "total_words": 35,
+    "total_score": 201,
+    "total_words": 38,
     "valid_words": [
       "annoy",
       "array",
@@ -10378,19 +10870,22 @@
       "rayon",
       "rotary",
       "tarry",
+      "tarty",
       "tatty",
       "tony",
+      "totty",
       "tranny",
       "tray",
       "tycoon",
       "tyranny",
       "tyrant",
+      "tyro",
       "yarn"
     ]
   },
   {
     "id": "e63aa6a7",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-07-24",
     "center_letter": "i",
     "outside_letters": [
@@ -10407,8 +10902,8 @@
       "terrarium"
     ],
     "bingo_possible": true,
-    "total_score": 264,
-    "total_words": 49,
+    "total_score": 284,
+    "total_words": 55,
     "valid_words": [
       "aerie",
       "airier",
@@ -10422,6 +10917,7 @@
       "emir",
       "emirate",
       "emit",
+      "imam",
       "imitate",
       "immature",
       "irate",
@@ -10432,17 +10928,22 @@
       "meatier",
       "merit",
       "merrier",
+      "metier",
       "mime",
       "mire",
       "mite",
       "miter",
+      "mitre",
       "mitt",
+      "muti",
       "rattier",
       "reiterate",
       "remit",
       "retire",
       "retiree",
+      "rime",
       "rite",
+      "tattie",
       "teatime",
       "termite",
       "terrarium",
@@ -10463,7 +10964,7 @@
   },
   {
     "id": "655f6485",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:28",
     "live_date": "2026-07-25",
     "center_letter": "i",
     "outside_letters": [
@@ -10479,8 +10980,8 @@
       "cardinal"
     ],
     "bingo_possible": true,
-    "total_score": 206,
-    "total_words": 41,
+    "total_score": 244,
+    "total_words": 50,
     "valid_words": [
       "acacia",
       "acid",
@@ -10494,14 +10995,18 @@
       "cardiac",
       "cardinal",
       "cicada",
+      "circa",
       "circadian",
       "clinic",
       "clinical",
       "clinician",
+      "craic",
       "crania",
       "cranial",
       "dial",
       "dill",
+      "dinar",
+      "dirndl",
       "drain",
       "drill",
       "inlaid",
@@ -10509,8 +11014,11 @@
       "laid",
       "lain",
       "lair",
+      "laird",
       "liar",
       "lilac",
+      "lira",
+      "nadir",
       "nail",
       "niacin",
       "racial",
@@ -10522,12 +11030,14 @@
       "railcard",
       "rain",
       "rancid",
+      "rani",
+      "ricin",
       "rind"
     ]
   },
   {
     "id": "afdf8282",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-07-26",
     "center_letter": "u",
     "outside_letters": [
@@ -10543,8 +11053,8 @@
       "conductor"
     ],
     "bingo_possible": true,
-    "total_score": 169,
-    "total_words": 37,
+    "total_score": 182,
+    "total_words": 40,
     "valid_words": [
       "coconut",
       "concur",
@@ -10560,10 +11070,13 @@
       "curt",
       "cutout",
       "donut",
+      "dour",
       "duct",
       "dunno",
       "noun",
       "occur",
+      "odour",
+      "orotund",
       "outdo",
       "outdoor",
       "outrun",
@@ -10587,7 +11100,7 @@
   },
   {
     "id": "3dc854a1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:41",
     "live_date": "2026-07-27",
     "center_letter": "i",
     "outside_letters": [
@@ -10603,23 +11116,27 @@
       "billboard"
     ],
     "bingo_possible": false,
-    "total_score": 149,
-    "total_words": 37,
+    "total_score": 172,
+    "total_words": 43,
     "valid_words": [
       "aioli",
       "alibi",
       "aria",
       "arid",
       "bail",
+      "barrio",
       "bilabial",
       "bill",
       "billboard",
       "billiard",
       "bird",
       "boil",
+      "braai",
       "braid",
       "briar",
       "bridal",
+      "brill",
+      "brio",
       "broil",
       "dial",
       "dildo",
@@ -10630,9 +11147,11 @@
       "labial",
       "laid",
       "lair",
+      "laird",
       "liar",
       "libido",
       "lido",
+      "lira",
       "rabbi",
       "rabid",
       "radial",
@@ -10647,7 +11166,7 @@
   },
   {
     "id": "c25e2a02",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-07-28",
     "center_letter": "m",
     "outside_letters": [
@@ -10663,8 +11182,8 @@
       "mackerel"
     ],
     "bingo_possible": true,
-    "total_score": 189,
-    "total_words": 45,
+    "total_score": 190,
+    "total_words": 46,
     "valid_words": [
       "acme",
       "alarm",
@@ -10682,6 +11201,7 @@
       "earmark",
       "emcee",
       "karma",
+      "lama",
       "lame",
       "lamer",
       "llama",
@@ -10715,7 +11235,7 @@
   },
   {
     "id": "974459a4",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-07-29",
     "center_letter": "i",
     "outside_letters": [
@@ -10732,8 +11252,8 @@
       "ebullient"
     ],
     "bingo_possible": true,
-    "total_score": 230,
-    "total_words": 46,
+    "total_score": 254,
+    "total_words": 51,
     "valid_words": [
       "beeline",
       "belie",
@@ -10753,6 +11273,7 @@
       "entitle",
       "inbuilt",
       "inlet",
+      "innit",
       "intent",
       "intuit",
       "lenient",
@@ -10760,9 +11281,12 @@
       "libel",
       "lien",
       "lieu",
+      "lilt",
       "line",
       "linen",
+      "linnet",
       "lint",
+      "lintel",
       "lite",
       "little",
       "nibble",
@@ -10773,6 +11297,7 @@
       "till",
       "tilt",
       "tine",
+      "tinnie",
       "tint",
       "titbit",
       "title",
@@ -10785,7 +11310,7 @@
   },
   {
     "id": "1651494f",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-07-30",
     "center_letter": "a",
     "outside_letters": [
@@ -10802,9 +11327,10 @@
       "unnaturally"
     ],
     "bingo_possible": true,
-    "total_score": 250,
-    "total_words": 51,
+    "total_score": 267,
+    "total_words": 55,
     "valid_words": [
+      "allay",
       "ally",
       "altar",
       "anal",
@@ -10837,10 +11363,13 @@
       "tall",
       "tally",
       "tarantula",
+      "tarn",
       "tarry",
       "tart",
       "tartan",
       "tartar",
+      "tartly",
+      "tarty",
       "tatty",
       "taunt",
       "taut",
@@ -10860,7 +11389,7 @@
   },
   {
     "id": "06869a3d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-07-31",
     "center_letter": "o",
     "outside_letters": [
@@ -10915,7 +11444,7 @@
   },
   {
     "id": "80e1f2aa",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-08-01",
     "center_letter": "i",
     "outside_letters": [
@@ -10933,8 +11462,8 @@
       "financed"
     ],
     "bingo_possible": true,
-    "total_score": 306,
-    "total_words": 52,
+    "total_score": 313,
+    "total_words": 54,
     "valid_words": [
       "acacia",
       "acid",
@@ -10964,6 +11493,7 @@
       "diffidence",
       "dine",
       "dined",
+      "dinned",
       "eddied",
       "edifice",
       "edified",
@@ -10971,6 +11501,7 @@
       "fancied",
       "fiance",
       "fiancee",
+      "fief",
       "fiend",
       "fife",
       "finance",
@@ -10992,7 +11523,7 @@
   },
   {
     "id": "59fe7ea3",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-08-02",
     "center_letter": "o",
     "outside_letters": [
@@ -11008,8 +11539,8 @@
       "normally"
     ],
     "bingo_possible": false,
-    "total_score": 217,
-    "total_words": 56,
+    "total_score": 218,
+    "total_words": 57,
     "valid_words": [
       "alloy",
       "aloo",
@@ -11025,6 +11556,7 @@
       "loam",
       "loamy",
       "loan",
+      "loll",
       "lolly",
       "loom",
       "loon",
@@ -11071,7 +11603,7 @@
   },
   {
     "id": "1f5a1890",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:31",
     "live_date": "2026-08-03",
     "center_letter": "o",
     "outside_letters": [
@@ -11087,10 +11619,11 @@
       "homicide"
     ],
     "bingo_possible": false,
-    "total_score": 162,
-    "total_words": 38,
+    "total_score": 169,
+    "total_words": 40,
     "valid_words": [
       "chemo",
+      "choc",
       "choice",
       "code",
       "coded",
@@ -11121,6 +11654,7 @@
       "hooded",
       "hoodie",
       "idiom",
+      "medico",
       "memo",
       "mode",
       "modem",
@@ -11132,7 +11666,7 @@
   },
   {
     "id": "1c6d2ec1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:40",
     "live_date": "2026-08-04",
     "center_letter": "p",
     "outside_letters": [
@@ -11203,7 +11737,7 @@
   },
   {
     "id": "de0f2a7b",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-08-05",
     "center_letter": "e",
     "outside_letters": [
@@ -11219,8 +11753,8 @@
       "homework"
     ],
     "bingo_possible": false,
-    "total_score": 110,
-    "total_words": 31,
+    "total_score": 116,
+    "total_words": 32,
     "valid_words": [
       "error",
       "ewer",
@@ -11242,6 +11776,7 @@
       "reek",
       "rework",
       "romeo",
+      "roomer",
       "rower",
       "week",
       "were",
@@ -11257,7 +11792,7 @@
   },
   {
     "id": "95a355de",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:34",
     "live_date": "2026-08-06",
     "center_letter": "a",
     "outside_letters": [
@@ -11274,16 +11809,18 @@
       "colleague"
     ],
     "bingo_possible": false,
-    "total_score": 140,
-    "total_words": 34,
+    "total_score": 151,
+    "total_words": 37,
     "valid_words": [
       "agog",
+      "ague",
       "algae",
       "algal",
       "allege",
       "aloe",
       "aloo",
       "cacao",
+      "caeca",
       "cage",
       "cagoule",
       "call",
@@ -11303,6 +11840,7 @@
       "gauge",
       "glace",
       "goal",
+      "gogga",
       "gulag",
       "lace",
       "league",
@@ -11315,7 +11853,7 @@
   },
   {
     "id": "abc16abd",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-08-07",
     "center_letter": "a",
     "outside_letters": [
@@ -11331,12 +11869,13 @@
       "principal"
     ],
     "bingo_possible": false,
-    "total_score": 166,
-    "total_words": 44,
+    "total_score": 184,
+    "total_words": 50,
     "valid_words": [
       "acacia",
       "alpaca",
       "anal",
+      "appal",
       "appall",
       "aria",
       "cairn",
@@ -11345,10 +11884,12 @@
       "cancan",
       "carnal",
       "carp",
+      "circa",
       "clan",
       "clap",
       "clinical",
       "clinician",
+      "craic",
       "crania",
       "cranial",
       "crap",
@@ -11356,11 +11897,13 @@
       "lair",
       "liar",
       "lilac",
+      "lira",
       "naan",
       "nail",
       "nana",
       "narc",
       "niacin",
+      "paan",
       "pail",
       "pain",
       "pair",
@@ -11377,12 +11920,13 @@
       "principal",
       "racial",
       "rail",
-      "rain"
+      "rain",
+      "rani"
     ]
   },
   {
     "id": "dadb845a",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:37",
     "live_date": "2026-08-08",
     "center_letter": "o",
     "outside_letters": [
@@ -11398,9 +11942,10 @@
       "backbone"
     ],
     "bingo_possible": false,
-    "total_score": 152,
-    "total_words": 41,
+    "total_score": 164,
+    "total_words": 44,
     "valid_words": [
+      "aeon",
       "anon",
       "baboon",
       "backbone",
@@ -11433,6 +11978,8 @@
       "knock",
       "knockback",
       "kook",
+      "nabob",
+      "neocon",
       "neon",
       "nonce",
       "none",
@@ -11446,7 +11993,7 @@
   },
   {
     "id": "5e23d217",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:35",
     "live_date": "2026-08-09",
     "center_letter": "p",
     "outside_letters": [
@@ -11465,11 +12012,12 @@
       "pimiento"
     ],
     "bingo_possible": true,
-    "total_score": 277,
-    "total_words": 49,
+    "total_score": 298,
+    "total_words": 53,
     "valid_words": [
       "epee",
       "epitome",
+      "impenitent",
       "impotent",
       "inept",
       "mope",
@@ -11496,6 +12044,7 @@
       "pinto",
       "pipe",
       "pipette",
+      "piton",
       "poem",
       "poet",
       "point",
@@ -11509,6 +12058,7 @@
       "potion",
       "teepee",
       "temp",
+      "tempi",
       "tempo",
       "tempt",
       "tenpin",
@@ -11516,12 +12066,13 @@
       "tiepin",
       "tinpot",
       "tiptoe",
-      "topee"
+      "topee",
+      "topi"
     ]
   },
   {
     "id": "fb0e5346",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-08-10",
     "center_letter": "i",
     "outside_letters": [
@@ -11539,8 +12090,8 @@
       "violoncello"
     ],
     "bingo_possible": true,
-    "total_score": 297,
-    "total_words": 54,
+    "total_score": 311,
+    "total_words": 58,
     "valid_words": [
       "civic",
       "civil",
@@ -11569,9 +12120,11 @@
       "lenience",
       "leonine",
       "lice",
+      "licence",
       "lien",
       "line",
       "linen",
+      "lino",
       "lion",
       "live",
       "liven",
@@ -11589,8 +12142,10 @@
       "vein",
       "vice",
       "vile",
+      "villi",
       "vine",
       "vino",
+      "viol",
       "violence",
       "violin",
       "violoncello",
@@ -11600,7 +12155,7 @@
   },
   {
     "id": "c8c4409d",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-08-11",
     "center_letter": "i",
     "outside_letters": [
@@ -11616,12 +12171,14 @@
       "rebellion"
     ],
     "bingo_possible": true,
-    "total_score": 220,
-    "total_words": 44,
+    "total_score": 250,
+    "total_words": 52,
     "valid_words": [
       "beeline",
       "belie",
+      "beriberi",
       "bible",
+      "bier",
       "bile",
       "bill",
       "billion",
@@ -11630,9 +12187,12 @@
       "boil",
       "boiler",
       "bonier",
+      "bonnier",
       "bribe",
       "brier",
+      "brill",
       "brine",
+      "brio",
       "broil",
       "broiler",
       "eerie",
@@ -11647,7 +12207,9 @@
       "line",
       "linen",
       "liner",
+      "lino",
       "lion",
+      "lire",
       "loin",
       "lonelier",
       "loonier",
@@ -11659,6 +12221,7 @@
       "oriole",
       "rebellion",
       "rein",
+      "rellie",
       "ribbon",
       "rile",
       "robin",
@@ -11667,7 +12230,7 @@
   },
   {
     "id": "948ddd81",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-08-12",
     "center_letter": "o",
     "outside_letters": [
@@ -11683,10 +12246,11 @@
       "luncheon"
     ],
     "bingo_possible": true,
-    "total_score": 153,
-    "total_words": 36,
+    "total_score": 161,
+    "total_words": 39,
     "valid_words": [
       "cello",
+      "choc",
       "cloche",
       "clone",
       "cocoon",
@@ -11709,10 +12273,12 @@
       "hullo",
       "loch",
       "loco",
+      "loll",
       "lone",
       "loon",
       "louche",
       "luncheon",
+      "neocon",
       "neon",
       "nonce",
       "none",
@@ -11726,7 +12292,7 @@
   },
   {
     "id": "f9cab9df",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:36",
     "live_date": "2026-08-13",
     "center_letter": "v",
     "outside_letters": [
@@ -11742,11 +12308,12 @@
       "elevator"
     ],
     "bingo_possible": true,
-    "total_score": 293,
-    "total_words": 56,
+    "total_score": 307,
+    "total_words": 59,
     "valid_words": [
       "alveolar",
       "avatar",
+      "aver",
       "avert",
       "elevate",
       "elevator",
@@ -11760,6 +12327,7 @@
       "levee",
       "level",
       "leveler",
+      "leveller",
       "lever",
       "love",
       "lover",
@@ -11794,6 +12362,7 @@
       "valve",
       "veal",
       "veer",
+      "velar",
       "velvet",
       "verve",
       "veto",
@@ -11805,7 +12374,7 @@
   },
   {
     "id": "477e613e",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:39",
     "live_date": "2026-08-14",
     "center_letter": "c",
     "outside_letters": [
@@ -11824,12 +12393,13 @@
       "genocide"
     ],
     "bingo_possible": true,
-    "total_score": 378,
-    "total_words": 57,
+    "total_score": 390,
+    "total_words": 59,
     "valid_words": [
       "cede",
       "ceded",
       "ceding",
+      "ciggie",
       "cocoon",
       "cocooned",
       "cocooning",
@@ -11880,6 +12450,7 @@
       "incidence",
       "innocence",
       "ionic",
+      "neocon",
       "nice",
       "niece",
       "nonce",
@@ -11888,7 +12459,7 @@
   },
   {
     "id": "3aea7548",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:38",
     "live_date": "2026-08-15",
     "center_letter": "v",
     "outside_letters": [
@@ -11959,7 +12530,7 @@
   },
   {
     "id": "df0acca1",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:32",
     "live_date": "2026-08-16",
     "center_letter": "a",
     "outside_letters": [
@@ -11975,8 +12546,8 @@
       "blackmail"
     ],
     "bingo_possible": true,
-    "total_score": 205,
-    "total_words": 45,
+    "total_score": 207,
+    "total_words": 47,
     "valid_words": [
       "aback",
       "acacia",
@@ -12006,11 +12577,13 @@
       "clam",
       "iamb",
       "iambic",
+      "imam",
       "kickback",
       "kickball",
       "labia",
       "labial",
       "lack",
+      "lama",
       "lamb",
       "lilac",
       "llama",
@@ -12027,7 +12600,7 @@
   },
   {
     "id": "709a75ae",
-    "last_reviewed": "2026-02-19 16:16:01",
+    "last_reviewed": "2026-02-19 16:00:33",
     "live_date": "2026-08-17",
     "center_letter": "e",
     "outside_letters": [
@@ -12043,8 +12616,8 @@
       "cellphone"
     ],
     "bingo_possible": true,
-    "total_score": 182,
-    "total_words": 47,
+    "total_score": 188,
+    "total_words": 48,
     "valid_words": [
       "cell",
       "cello",
@@ -12076,6 +12649,7 @@
       "lone",
       "loophole",
       "lope",
+      "neocon",
       "neon",
       "nonce",
       "none",
