@@ -16,25 +16,37 @@ Every session follows this sequence:
 
 ### Step 1 — Generate puzzles
 ```bash
-python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output puzzle_sets.json
+python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output new_puzzles.json
 ```
 Creates ~180 puzzles. Takes 2–5 minutes. Prints stats on completion.
 
 ### Step 2 — Batch pre-mark words
 ```bash
 # Preview first (dry run)
-python batch_process_words.py --puzzle-sets puzzle_sets.json --dry-run
+python batch_process_words.py --puzzle-sets new_puzzles.json --dry-run
 
 # Then apply
-python batch_process_words.py --puzzle-sets puzzle_sets.json
+python batch_process_words.py --puzzle-sets new_puzzles.json
 ```
 Auto-marks high-frequency words as valid and rare short words as obscure, so the manual review step is faster.
 
 ### Step 3 — Manual review
 ```bash
-python review_puzzles.py puzzle_sets.json
+python review_puzzles.py new_puzzles.json
 ```
 Interactive curses TUI. Navigate puzzles and words, mark valid/obscure, see WordNet definitions. See `puzzle_review_guide.md` for keyboard shortcuts.
+
+### Step 3.5 — Merge into live set
+```bash
+# Preview first (dry run)
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --dry-run
+
+# Then apply (appends new puzzles after the current set ends)
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --output puzzle_sets.json
+```
+Re-dates the new puzzles to start the day after the existing set ends, checks for ID collisions, and writes a timestamped backup before overwriting. See **`manage_puzzles.py` — Merging Puzzle Sets** below for the full options.
+
+**First-time setup** (no existing live set): skip Step 3.5 and rename `new_puzzles.json` → `puzzle_sets.json`.
 
 When done, drop `puzzle_sets.json` into the game.
 
@@ -78,6 +90,7 @@ The generator uses a **pangram-first** approach (as of 2026):
 | `filtered_12dictionary_40k.json` | Input dictionary (~40k words, pre-filtered) | YES |
 | `word_frequency.pkl` | Corpus frequency data (~23MB pickle) | YES — all 3 scripts use it |
 | `puzzle_sets.json` | Current active puzzle set (game output) | YES |
+| `new_puzzles.json` | Intermediate generated set (before merging into live) | Temporary |
 | `word_cache.json` | Reviewed word decisions (valid/rejected) | YES — authoritative |
 | `dictionary.json` | Original full dictionary (~6.8MB) | Source material, not used in workflow |
 
@@ -91,6 +104,40 @@ The generator uses a **pangram-first** approach (as of 2026):
 | 5+ letter word | length pts (e.g., 7-letter = 7 pts) |
 | Pangram bonus | +10 pts |
 | Bingo bonus (puzzle has word starting with each of the 7 letters) | +10 pts |
+
+---
+
+## manage_puzzles.py — Merging Puzzle Sets
+
+`manage_puzzles.py` safely merges a newly generated set into the live puzzle set without disrupting players.
+
+**Two modes:**
+
+| Mode | Use when |
+|------|----------|
+| `append` (default) | Current set is running out; add more puzzles after it ends |
+| `replace-forward` | Algorithm improved; swap upcoming puzzles, keep played history |
+
+**Common commands:**
+
+```bash
+# Extend the feed (safe, non-destructive)
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json
+
+# Swap upcoming puzzles with better ones (destructive — removes unplayed future puzzles)
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --mode replace-forward --confirm
+
+# Always preview with --dry-run first
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --dry-run
+```
+
+**Key options:**
+- `--grace-days N` — In replace-forward mode, keep N days of recent puzzles for replay (default: 2)
+- `--confirm` — Required for replace-forward (prevents accidental use)
+- `--dry-run` — Print the plan without writing anything
+- `--output PATH` — Override the output path (default: overwrites `puzzle_sets.json`)
+
+The script always writes a timestamped backup before overwriting.
 
 ---
 
@@ -127,5 +174,5 @@ Both `batch_process_words.py` and `review_puzzles.py` automatically create times
 - **word_cache.json is authoritative**: Decisions persist across regenerations. If you regenerate puzzles, the batch/review steps will still know which words were previously approved.
 - **Backups are automatic**: Both `batch_process_words.py` and `review_puzzles.py` create `*_backup_YYYYMMDD_HHMMSS.json` files before writing. Keep only the most recent.
 - **Puzzles with < 20 words or 0 pangrams after review are removed**: The review system enforces this automatically.
-- **Live dates are sequential from today**: Each puzzle gets `today + N days`. If you need to shift dates, use `archive/update_dates.py`.
+- **Live dates are sequential from today**: Each puzzle gets `today + N days` at generation time. To append or replace-forward into the live set without date collisions, use `manage_puzzles.py` (Step 3.5). The low-level `archive/update_dates.py` still works for resetting dates from scratch.
 - **anchor_word may be reviewed away**: If the anchor word is marked obscure during review and the puzzle drops to 0 pangrams, the puzzle is invalidated. This is intentional.
