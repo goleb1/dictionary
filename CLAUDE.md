@@ -16,7 +16,7 @@ Every session follows this sequence:
 
 ### Step 1 — Generate puzzles
 ```bash
-python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output new_puzzles.json
+python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output new_puzzles.json --exclude-existing puzzle_sets.json
 ```
 Creates ~180 puzzles. Takes 2–5 minutes. Prints stats on completion.
 
@@ -39,12 +39,12 @@ Interactive curses TUI. Navigate puzzles and words, mark valid/obscure, see Word
 ### Step 3.5 — Merge into live set
 ```bash
 # Preview first (dry run)
-python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --dry-run
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --dry-run --start-date YYYY-MM-DD
 
-# Then apply (appends new puzzles after the current set ends)
-python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --output puzzle_sets.json
+# Then apply
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --output puzzle_sets.json --start-date YYYY-MM-DD
 ```
-Re-dates the new puzzles to start the day after the existing set ends, checks for ID collisions, and writes a timestamped backup before overwriting. See **`manage_puzzles.py` — Merging Puzzle Sets** below for the full options.
+Re-dates the new puzzles from the requested deployment date, checks for ID collisions and repeated gameplay, and writes a timestamped backup before overwriting. See **`manage_puzzles.py` — Merging Puzzle Sets** below for the full options.
 
 **First-time setup** (no existing live set): skip Step 3.5 and rename `new_puzzles.json` → `puzzle_sets.json`.
 

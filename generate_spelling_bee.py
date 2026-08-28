@@ -263,7 +263,16 @@ def select_center_letter(
     return None
 
 
-def generate_puzzles(dictionary: Dict[str, int]) -> List[Dict[str, Any]]:
+def puzzle_letter_set(puzzle: Dict[str, Any]) -> frozenset:
+    """Return the unordered seven-letter signature for a puzzle."""
+    return frozenset([puzzle['center_letter'], *puzzle['outside_letters']])
+
+
+def generate_puzzles(
+    dictionary: Dict[str, int],
+    word_freq: Dict[str, int],
+    excluded_puzzles: Optional[List[Dict[str, Any]]] = None,
+) -> List[Dict[str, Any]]:
     """
     Generate puzzle sets using a pangram-first approach.
 
@@ -272,9 +281,19 @@ def generate_puzzles(dictionary: Dict[str, int]) -> List[Dict[str, Any]]:
     S is excluded as an outside letter — letter sets containing S only proceed
     when S is used as the center letter.
     """
-    word_freq = load_word_frequencies()
     anchor_candidates = find_anchor_candidates(dictionary, word_freq)
     print(f"Found {len(anchor_candidates)} anchor candidates")
+
+    excluded_puzzles = excluded_puzzles or []
+    excluded_letter_sets = {puzzle_letter_set(p) for p in excluded_puzzles}
+    excluded_anchors = {
+        p.get('anchor_word') for p in excluded_puzzles if p.get('anchor_word')
+    }
+    if excluded_puzzles:
+        print(
+            f"Excluding {len(excluded_letter_sets)} existing letter sets and "
+            f"{len(excluded_anchors)} existing anchors"
+        )
 
     all_puzzles = []
     seen_letter_sets: Set[frozenset] = set()
@@ -284,6 +303,8 @@ def generate_puzzles(dictionary: Dict[str, int]) -> List[Dict[str, Any]]:
         letters = set(anchor_word)
         lset = frozenset(letters)
 
+        if anchor_word in excluded_anchors or lset in excluded_letter_sets:
+            continue
         if lset in seen_letter_sets:
             continue
         seen_letter_sets.add(lset)
@@ -379,15 +400,27 @@ def main():
                         help='Output puzzle sets file path')
     parser.add_argument('--freq', default='word_frequency.pkl',
                         help='Word frequency pickle file path')
+    parser.add_argument('--exclude-existing',
+                        help='Existing puzzle JSON whose anchors and letter sets must not be reused')
     args = parser.parse_args()
 
     # Load dictionary
     print(f"Loading dictionary from {args.input}...")
     dictionary = load_dictionary(args.input)
 
+    word_freq = load_word_frequencies(args.freq)
+    excluded_puzzles = []
+    if args.exclude_existing:
+        print(f"Loading exclusions from {args.exclude_existing}...")
+        with open(args.exclude_existing, 'r') as f:
+            excluded_puzzles = json.load(f)
+
     # Generate puzzles
     print("Generating puzzle sets...")
-    puzzle_sets = generate_puzzles(dictionary)
+    puzzle_sets = generate_puzzles(dictionary, word_freq, excluded_puzzles)
+
+    if not puzzle_sets:
+        raise SystemExit("No eligible non-duplicate puzzles were generated.")
 
     # Save puzzles
     print(f"Saving {len(puzzle_sets)} puzzle sets to {args.output}...")

@@ -28,6 +28,7 @@ import sys
 import argparse
 import uuid
 from datetime import datetime, timedelta, date
+from typing import Optional
 
 
 # ---------------------------------------------------------------------------
@@ -82,13 +83,56 @@ def fix_id_collisions(existing: list, new_puzzles: list) -> list:
     return result
 
 
-def warn_duplicate_anchors(existing: list, new_puzzles: list) -> None:
+def puzzle_letter_set(puzzle: dict) -> frozenset:
+    return frozenset([puzzle['center_letter'], *puzzle['outside_letters']])
+
+
+def puzzle_centered_set(puzzle: dict) -> tuple:
+    return puzzle['center_letter'], frozenset(puzzle['outside_letters'])
+
+
+def reject_duplicate_puzzles(existing: list, new_puzzles: list) -> None:
+    """Fail rather than silently scheduling repeated gameplay."""
     existing_anchors = {p.get('anchor_word') for p in existing if p.get('anchor_word')}
-    dupes = [p.get('anchor_word') for p in new_puzzles
-             if p.get('anchor_word') and p.get('anchor_word') in existing_anchors]
-    if dupes:
-        print(f"\n  [Warning] {len(dupes)} anchor word(s) appear in both sets: {', '.join(dupes[:5])}{'...' if len(dupes) > 5 else ''}")
-        print("  This is unlikely to affect gameplay but is worth knowing.\n")
+    existing_letter_sets = {puzzle_letter_set(p) for p in existing}
+    existing_centered_sets = {puzzle_centered_set(p) for p in existing}
+
+    duplicate_anchors = [
+        p.get('anchor_word') for p in new_puzzles
+        if p.get('anchor_word') and p.get('anchor_word') in existing_anchors
+    ]
+    duplicate_letter_sets = [
+        p.get('anchor_word', p.get('id', 'unknown')) for p in new_puzzles
+        if puzzle_letter_set(p) in existing_letter_sets
+    ]
+    duplicate_centered_sets = [
+        p.get('anchor_word', p.get('id', 'unknown')) for p in new_puzzles
+        if puzzle_centered_set(p) in existing_centered_sets
+    ]
+
+    new_anchors = [p.get('anchor_word') for p in new_puzzles if p.get('anchor_word')]
+    new_letter_sets = [puzzle_letter_set(p) for p in new_puzzles]
+    new_centered_sets = [puzzle_centered_set(p) for p in new_puzzles]
+    internal_duplicate_anchors = len(new_anchors) - len(set(new_anchors))
+    internal_duplicate_letter_sets = len(new_letter_sets) - len(set(new_letter_sets))
+    internal_duplicate_centered_sets = len(new_centered_sets) - len(set(new_centered_sets))
+
+    problems = []
+    if duplicate_anchors:
+        problems.append(f"{len(duplicate_anchors)} anchor(s) repeated from existing")
+    if duplicate_letter_sets:
+        problems.append(f"{len(duplicate_letter_sets)} letter set(s) repeated from existing")
+    if duplicate_centered_sets:
+        problems.append(f"{len(duplicate_centered_sets)} centered set(s) repeated from existing")
+    if internal_duplicate_anchors:
+        problems.append(f"{internal_duplicate_anchors} duplicate anchor(s) within new set")
+    if internal_duplicate_letter_sets:
+        problems.append(f"{internal_duplicate_letter_sets} duplicate letter set(s) within new set")
+    if internal_duplicate_centered_sets:
+        problems.append(f"{internal_duplicate_centered_sets} duplicate centered set(s) within new set")
+    if problems:
+        print(f"\nError: refusing to merge: {', '.join(problems)}.")
+        sys.exit(1)
 
 
 def backup_file(path: str) -> str:
@@ -113,8 +157,23 @@ def print_summary(label: str, puzzles: list) -> tuple:
 # Modes
 # ---------------------------------------------------------------------------
 
-def mode_append(existing: list, new_puzzles: list) -> list:
-    if not existing:
+def mode_append(
+    existing: list,
+    new_puzzles: list,
+    requested_start: Optional[date] = None,
+) -> list:
+    if requested_start:
+        start = requested_start
+        if existing:
+            max_date = max(date_from_str(p['live_date']) for p in existing)
+            if start <= max_date:
+                print(
+                    f"Error: --start-date {str_from_date(start)} must be after the existing "
+                    f"last date {str_from_date(max_date)}."
+                )
+                sys.exit(1)
+        print(f"  Dating new puzzles from requested start date {str_from_date(start)}.")
+    elif not existing:
         start = date.today()
         print("  Existing set is empty — dating new puzzles from today.")
     else:
@@ -177,9 +236,15 @@ def main():
                         help='replace-forward: days of recent history to keep (default: 2)')
     parser.add_argument('--dry-run', action='store_true',
                         help='Preview the plan without writing anything')
+    parser.add_argument('--start-date',
+                        help='append mode: first date for the new set (YYYY-MM-DD)')
     parser.add_argument('--confirm', action='store_true',
                         help='Required for replace-forward mode (destructive)')
     args = parser.parse_args()
+
+    requested_start = date_from_str(args.start_date) if args.start_date else None
+    if requested_start and args.mode != 'append':
+        parser.error('--start-date is only valid in append mode')
 
     print(f"\n=== Puzzle Merge ({args.mode} mode{', DRY RUN' if args.dry_run else ''}) ===\n")
 
@@ -195,13 +260,13 @@ def main():
     print_summary(f"  Existing ({args.existing})", existing)
     print_summary(f"  New      ({args.new})", new_puzzles)
 
-    # Fix collisions and warn before re-dating
+    # Fix ID collisions, then reject repeated gameplay before re-dating
     new_puzzles = fix_id_collisions(existing, new_puzzles)
-    warn_duplicate_anchors(existing, new_puzzles)
+    reject_duplicate_puzzles(existing, new_puzzles)
 
     # Run chosen mode
     if args.mode == 'append':
-        merged = mode_append(existing, new_puzzles)
+        merged = mode_append(existing, new_puzzles, requested_start)
     else:
         merged = mode_replace_forward(existing, new_puzzles, args.grace_days, args.confirm)
 

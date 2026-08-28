@@ -10,24 +10,31 @@ Every session follows 3 steps:
 
 ### 1. Generate
 ```bash
-python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output puzzle_sets.json
+python generate_spelling_bee.py --input filtered_12dictionary_40k.json --output new_puzzles.json --exclude-existing puzzle_sets.json
 ```
 Produces ~180 puzzles in 2–5 minutes. Prints a stats summary on completion.
 
 ### 2. Batch pre-mark words
 ```bash
-python batch_process_words.py --puzzle-sets puzzle_sets.json --dry-run  # preview
-python batch_process_words.py --puzzle-sets puzzle_sets.json            # apply
+python batch_process_words.py --puzzle-sets new_puzzles.json --dry-run  # preview
+python batch_process_words.py --puzzle-sets new_puzzles.json            # apply
 ```
 Auto-marks common words as valid and rare short words as obscure, reducing the manual review burden.
 
 ### 3. Review
 ```bash
-python review_puzzles.py puzzle_sets.json
+python review_puzzles.py new_puzzles.json
 ```
 Interactive terminal UI for manually reviewing remaining words. See `puzzle_review_guide.md` for keyboard shortcuts.
 
-**Output:** `puzzle_sets.json` — drop this directly into the game.
+Then merge the reviewed batch with an explicit deployment date:
+
+```bash
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --dry-run --start-date YYYY-MM-DD
+python manage_puzzles.py --existing puzzle_sets.json --new new_puzzles.json --output puzzle_sets.json --start-date YYYY-MM-DD
+```
+
+**Output:** the merged `puzzle_sets.json` — drop this into the game.
 
 ---
 
