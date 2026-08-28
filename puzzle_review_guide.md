@@ -6,12 +6,11 @@ This guide provides tips and shortcuts for efficiently reviewing puzzle sets wit
 
 The puzzle review tool has been enhanced with several features to speed up your workflow:
 
-### 1. Auto-Review Mode
-- Press `A` to toggle auto-review mode ON/OFF
-- When ON, the tool automatically pre-marks words as valid or obscure based on frequency
-- Common words (>50,000 occurrences) are marked as valid
-- Rare, short words (<50,000 occurrences, <8 letters) are marked as obscure
-- Longer words remain unreviewed even if infrequent (may be specialized terms)
+### 1. Batch Pre-Review
+- Run `batch_process_words.py` before opening the TUI.
+- Common words (>50,000 occurrences) are marked as valid.
+- Rare, short words (<50,000 occurrences, <8 letters) are marked as obscure.
+- Longer words remain unreviewed even if infrequent (may be specialized terms).
 
 ### 2. Pangram Prioritization
 - Press `P` to prioritize pangrams in the review order
@@ -23,7 +22,6 @@ The puzzle review tool has been enhanced with several features to speed up your 
 - **Red** - Obscure words (rejected)
 - **Green** - Valid words (accepted)
 - **Cyan** - Pangrams (words using all 7 letters)
-- **Magenta** - Rare words (low frequency but not yet marked)
 - **Yellow** - Similar words to the current word
 - Pangrams are marked with an asterisk (*)
 
@@ -85,7 +83,6 @@ Example workflow:
 | `G` | Mark current word + similar words as obscure |
 | `H` | Mark current word + similar words as valid |
 | `Y` | Mark all remaining unreviewed words as valid |
-| `A` | Toggle auto-review mode |
 | `P` | Toggle pangram prioritization |
 | `S` | Previous puzzle |
 | `D` | Next puzzle |
@@ -104,15 +101,13 @@ Example workflow:
    python review_puzzles.py puzzle_sets.json
    ```
 
-3. **Enable Auto-Review**: Toggle auto-review mode ON (press `A`) when first opening a puzzle
+3. **Prioritize Pangrams**: Press `P` to review pangrams first
 
-4. **Prioritize Pangrams**: Press `P` to review pangrams first 
+4. **Batch Process**: Use `G` and `H` to quickly mark groups of similar words
 
-5. **Batch Process**: Use `G` and `H` to quickly mark groups of similar words
+5. **Rare Word Focus**: Review low-frequency unmarked words carefully
 
-6. **Rare Word Focus**: Look for magenta-colored words (rare words needing review)
-
-7. **Finalize**: When satisfied, press `Y` to mark all remaining unmarked words as valid
+6. **Finalize**: When satisfied, press `Y` to mark all remaining unmarked words as valid
 
 This optimized workflow can reduce review time by 70-80% compared to reviewing each word individually.
 
